@@ -7,8 +7,8 @@
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping pattern="bowerfile" type="Ruby" />
       <mapping pattern="Bowerfile" type="Ruby" />
-      <mapping ext="rabl" type="Ruby" />
       <mapping ext="axlsx" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
     </extensionMap>
   </component>
 </application>
