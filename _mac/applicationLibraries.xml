@@ -19170,6 +19170,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/roo-2.7.1/.github" />
       </SOURCES>
     </library>
+    <library name="roo (v2.7.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rspec (v2.13.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rspec-2.13.0/lib" />
@@ -21388,6 +21398,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spork-rails-3.2.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spork-rails-3.2.1/features" />
+      </SOURCES>
+    </library>
+    <library name="spreadsheet (v1.1.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/lib" />
       </SOURCES>
     </library>
     <library name="spring (v1.6.1, RVM: ruby-2.1.8) [gem]">
