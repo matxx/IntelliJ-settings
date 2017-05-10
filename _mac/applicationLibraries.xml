@@ -19534,6 +19534,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rollout-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="rollout (v2.4.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rollout-2.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rollout-2.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rollout-2.2.4 (v2.2.4, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rollout-2.2.4/lib" />
