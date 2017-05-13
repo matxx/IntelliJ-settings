@@ -1004,6 +1004,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/addressable-2.4.0/tasks" />
       </SOURCES>
     </library>
+    <library name="aes (v0.5.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aes-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aes-0.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="afm (v0.2.2, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/afm-0.2.2/lib" />
