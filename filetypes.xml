@@ -5,6 +5,7 @@
       <mapping pattern="cached_response" type="PLAIN_TEXT" />
       <mapping pattern="new" type="PLAIN_TEXT" />
       <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="py" type="PLAIN_TEXT" />
       <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping pattern="bowerfile" type="Ruby" />
       <mapping pattern="Bowerfile" type="Ruby" />
