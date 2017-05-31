@@ -2342,6 +2342,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.6.6/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.9.25, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.9.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.9.25/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-2.0.6.pre (v2.0.6.pre, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/aws-sdk-2.0.6.pre/lib" />
@@ -2458,6 +2466,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.6.6/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core (v2.9.25, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.9.25/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core-2.0.6 (v2.0.6, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/aws-sdk-core-2.0.6/bin" />
@@ -2562,6 +2582,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.6.6/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-resources (v2.9.25, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.9.25/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.9.25/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources-2.0.6.pre (v2.0.6.pre, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/aws-sdk-resources-2.0.6.pre/lib" />
@@ -2592,6 +2620,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/aws-sdk-resources-2.6.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4 (v1.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sigv4-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sigv4-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="axiom-types (v0.1.1, RVM: ruby-2.2.5) [gem]">
@@ -13190,6 +13226,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/multi_xml-0.5.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="multi_xml (v0.6.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/multi_xml-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/multi_xml-0.6.0/lib" />
       </SOURCES>
     </library>
     <library name="multi_xml-0.5.5 (v0.5.5, RVM: ruby-2.1.8) [gem]">
