@@ -22344,6 +22344,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/sidekiq-cleaner-fa6831d9abe3/lib" />
       </SOURCES>
     </library>
+    <library name="sidekiq-failures (v0.4.5@212fb5, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/sidekiq-failures-212fb506c9c1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/sidekiq-failures-212fb506c9c1/lib" />
+      </SOURCES>
+    </library>
     <library name="sidekiq-failures-0.4.5 (v0.4.5, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/sidekiq-failures-0.4.5/lib" />
