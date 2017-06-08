@@ -9550,6 +9550,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.1/features" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.15.5, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.5/features" />
+      </SOURCES>
+    </library>
     <library name="httparty-0.11.0 (v0.11.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/httparty-0.11.0/bin" />
@@ -17042,6 +17058,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-cors-0.4.0/lib" />
       </SOURCES>
     </library>
+    <library name="rack-cors (v0.4.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-cors-0.4.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rack-cors-0.4.1/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-livereload (v0.3.16, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-livereload-0.3.16/js" />
@@ -19348,6 +19372,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.3/.travis" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.3/benchmarking" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.3, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
     <library name="redis-3.3.0 (v3.3.0, RVM: ruby-2.1.8) [gem]">
@@ -22242,6 +22278,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-4.2.10/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-4.2.10/web" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sidekiq-4.2.10/.github" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq (v5.0.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/web" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-5.0.2/.github" />
       </SOURCES>
     </library>
     <library name="sidekiq-4.1.4 (v4.1.4, RVM: ruby-2.3.1) [gem]">
