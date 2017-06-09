@@ -26132,5 +26132,19 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/zip-zip-0.3/lib" />
       </SOURCES>
     </library>
+    <library name="zpng-0.2.5 (v0.2.5, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/misc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/zpng-0.2.5/samples" />
+      </SOURCES>
+    </library>
   </component>
 </application>
