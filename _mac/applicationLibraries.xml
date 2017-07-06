@@ -21574,6 +21574,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spork-rails-3.2.1/features" />
       </SOURCES>
     </library>
+    <library name="spreadsheet (v1.1.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/spreadsheet-1.1.4/lib" />
+      </SOURCES>
+    </library>
     <library name="spring (v1.6.1, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spring-1.6.1/bin" />
