@@ -3362,6 +3362,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/better_errors-40cb4e6f6a4c/lib" />
       </SOURCES>
     </library>
+    <library name="better_errors (v2.1.1@707ffc, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/better_errors-707ffcf284d8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/better_errors-707ffcf284d8/lib" />
+      </SOURCES>
+    </library>
     <library name="better_errors-0.9.0 (v0.9.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/better_errors-0.9.0/lib" />
