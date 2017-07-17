@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping pattern="[:show]" type="PLAIN_TEXT" />
+      <mapping pattern="scrapping_denom_products.rb" type="PLAIN_TEXT" />
+      <mapping pattern="cached_response" type="PLAIN_TEXT" />
+      <mapping ext="sqlite3" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
+      <mapping pattern="bowerfile" type="Ruby" />
+      <mapping pattern="Bowerfile" type="Ruby" />
+      <mapping ext="arb" type="Ruby" />
+      <mapping ext="rabl" type="Ruby" />
+      <mapping ext="axlsx" type="Ruby" />
+    </extensionMap>
+  </component>
+</application>
