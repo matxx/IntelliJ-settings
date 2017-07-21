@@ -17170,6 +17170,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.13/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings (v0.2.14, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.14/config" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings (v0.2.3, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.3/lib" />
