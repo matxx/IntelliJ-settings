@@ -3484,12 +3484,10 @@
     </library>
     <library name="bcrypt-ruby (v3.0.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-ruby-3.0.1/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt-ruby/3.0.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-ruby-3.0.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bcrypt-ruby-3.0.1/lib" />
       </SOURCES>
@@ -8038,14 +8036,12 @@
     </library>
     <library name="ffi (v1.9.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/libtest" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ffi/1.9.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/gen" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-1.9.0/lib" />
@@ -9036,7 +9032,6 @@
     </library>
     <library name="gherkin (v2.12.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/lib" />
@@ -9045,7 +9040,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/features" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/gherkin/2.12.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/js" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gherkin-2.12.0/lib" />
@@ -10374,13 +10368,11 @@
     </library>
     <library name="hitimes (v1.2.4, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hitimes/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hitimes/1.2.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hitimes-1.2.4/tasks" />
@@ -15948,14 +15940,12 @@
     </library>
     <library name="nokogiri (v1.5.11, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.5.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/tasks" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/nokogiri/1.5.11" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.5.11/lib" />
@@ -16966,13 +16956,11 @@
     </library>
     <library name="pg (v0.15.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.15.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/sample" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/pg/0.15.1" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pg-0.15.1/sample" />
@@ -22406,12 +22394,10 @@
     </library>
     <library name="rgeo (v0.4.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rgeo/0.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rgeo-0.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rgeo-0.4.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rgeo/0.4.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rgeo-0.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rgeo-0.4.0/lib" />
       </SOURCES>
@@ -22564,12 +22550,10 @@
     </library>
     <library name="rmagick (v2.13.4, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rmagick/2.13.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rmagick-2.13.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rmagick-2.13.4/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/rmagick/2.13.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rmagick-2.13.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rmagick-2.13.4/lib" />
       </SOURCES>
@@ -23650,13 +23634,11 @@
     </library>
     <library name="ruby-prof (v0.13.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ruby-prof/0.13.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/ruby-prof/0.13.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-prof-0.13.0/lib" />
