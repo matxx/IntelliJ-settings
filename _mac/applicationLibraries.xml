@@ -8422,6 +8422,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="fish_transactions (v1.1.1@0d7caf, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/fish_transactions-0d7caf5fec74/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/fish_transactions-0d7caf5fec74/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/fish_transactions-0d7caf5fec74/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/fish_transactions-0d7caf5fec74/lib" />
+      </SOURCES>
+    </library>
     <library name="fission (v0.5.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/fission-0.5.0/bin" />
@@ -25926,6 +25936,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-failures-0.4.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="sidekiq-failures-1.0.0 (v1.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-failures-1.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sidekiq-failures-1.0.0/lib" />
       </SOURCES>
     </library>
     <library name="sidekiq-limit_fetch-3.4.0 (v3.4.0, RVM: ruby-2.3.3) [gem]">
