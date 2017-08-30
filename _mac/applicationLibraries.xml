@@ -2852,6 +2852,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/autoprefixer-rails-7.0.1/vendor" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v0.4.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/awesome_print-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/awesome_print-0.4.0/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/awesome_print-0.4.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/awesome_print-0.4.0/rails" />
+      </SOURCES>
+    </library>
     <library name="awesome_print (v1.1.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/awesome_print-1.1.0/lib" />
@@ -21290,6 +21300,16 @@
         <root url="file:///usr/lib/ruby/2.0.0/rubygems" />
         <root url="file:///usr/lib/ruby/2.0.0/bigdecimal" />
         <root url="file:///usr/lib/ruby/2.0.0/universal-darwin16" />
+      </SOURCES>
+    </library>
+    <library name="rake (v0.9.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-0.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-0.9.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-0.9.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rake-0.9.6/lib" />
       </SOURCES>
     </library>
     <library name="rake (v10.1.0, RVM: ruby-1.9.3-p551) [gem]">
