@@ -19464,6 +19464,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/rabl-0df188d5440a/fixtures" />
       </SOURCES>
     </library>
+    <library name="rabl (v0.6.14, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.6.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.6.14/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.6.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.6.14/fixtures" />
+      </SOURCES>
+    </library>
     <library name="rabl-0.13.1 (v0.13.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rabl-0.13.1/lib" />
