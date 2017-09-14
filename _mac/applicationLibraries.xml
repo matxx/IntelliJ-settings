@@ -2496,6 +2496,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/Ascii85-1.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="Ascii85 (v1.0.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/Ascii85-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/Ascii85-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/Ascii85-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/Ascii85-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="Ascii85-1.0.2 (v1.0.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/Ascii85-1.0.2/bin" />
@@ -15688,6 +15698,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/multipart-post-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="multipart-post (v2.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/multipart-post-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/multipart-post-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="multipart-post-2.0.0 (v2.0.0, RVM: ruby-2.1.8) [gem]">
