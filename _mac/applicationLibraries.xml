@@ -1588,6 +1588,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/afm-0.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="afm-0.2.2 (v0.2.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/afm-0.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/afm-0.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="afm-0.2.2 (v0.2.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/afm-0.2.2/lib" />
@@ -8320,6 +8328,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/faraday-0.9.0/script" />
       </SOURCES>
     </library>
+    <library name="faraday-0.9.2 (v0.9.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/faraday-0.9.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/faraday-0.9.2/lib" />
+      </SOURCES>
+    </library>
     <library name="faraday-0.9.2 (v0.9.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/faraday-0.9.2/lib" />
@@ -9340,6 +9356,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gemfury-0.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="gemfury-0.6.0 (v0.6.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gemfury-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gemfury-0.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gemfury-0.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/gemfury-0.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="gemfury-0.6.0 (v0.6.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/gemfury-0.6.0/bin" />
@@ -10280,6 +10306,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hashery-2.1.2/demo" />
       </SOURCES>
     </library>
+    <library name="hashery-2.1.2 (v2.1.2, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/demo" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/alt" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/hashery-2.1.2/demo" />
+      </SOURCES>
+    </library>
     <library name="hashery-2.1.2 (v2.1.2, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hashery-2.1.2/alt" />
@@ -10638,6 +10676,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/highline-1.7.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/highline-1.7.2/site" />
+      </SOURCES>
+    </library>
+    <library name="highline-1.6.21 (v1.6.21, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.6.21/site" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.6.21/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/highline-1.6.21/site" />
       </SOURCES>
     </library>
     <library name="highline-1.6.21 (v1.6.21, RVM: ruby-2.3.3) [gem]">
@@ -16040,6 +16088,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/netrc-0.11.0/data" />
       </SOURCES>
     </library>
+    <library name="netrc-0.10.3 (v0.10.3, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/netrc-0.10.3/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/netrc-0.10.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/netrc-0.10.3/data" />
+      </SOURCES>
+    </library>
     <library name="netrc-0.10.3 (v0.10.3, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/netrc-0.10.3/lib" />
@@ -17600,6 +17658,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-reader-2.0.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-reader-2.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-reader-2.0.0 (v2.0.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pdf-reader-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pdf-reader-2.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pdf-reader-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pdf-reader-2.0.0/lib" />
       </SOURCES>
     </library>
     <library name="pdf-reader-2.0.0 (v2.0.0, RVM: ruby-2.3.3) [gem]">
@@ -21790,6 +21858,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3@global/gems/rake-10.4.2/rakelib" />
       </SOURCES>
     </library>
+    <library name="rake-10.5.0 (v10.5.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/rakelib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/rake-10.5.0/rakelib" />
+      </SOURCES>
+    </library>
     <library name="rake-10.5.0 (v10.5.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rake-10.5.0/bin" />
@@ -24900,6 +24980,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ruby-rc4-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-rc4-0.1.5 (v0.1.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-rc4-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ruby-rc4-0.1.5/lib" />
       </SOURCES>
     </library>
     <library name="ruby-rc4-0.1.5 (v0.1.5, RVM: ruby-2.3.3) [gem]">
@@ -28162,6 +28250,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ttfunk-1.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="ttfunk-1.5.0 (v1.5.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ttfunk-1.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/ttfunk-1.5.0/lib" />
       </SOURCES>
     </library>
     <library name="ttfunk-1.5.0 (v1.5.0, RVM: ruby-2.3.3) [gem]">
