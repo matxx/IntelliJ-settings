@@ -11004,6 +11004,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hipchat-1.5.4/lib" />
       </SOURCES>
     </library>
+    <library name="hipchat (v1.6.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hipchat-1.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hipchat-1.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="hipchat-1.4.0 (v1.4.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/hipchat-1.4.0/lib" />
@@ -11448,6 +11456,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/httparty-0.15.5/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/httparty-0.15.5/website" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/httparty-0.15.5/features" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.15.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.15.6/features" />
       </SOURCES>
     </library>
     <library name="httparty (v0.15.6, RVM: ruby-2.3.3) [gem]">
