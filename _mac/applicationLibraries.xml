@@ -17878,6 +17878,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.5/samples" />
       </SOURCES>
     </library>
+    <library name="pdf-extract (v0.1.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/samples" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/pdf-reader-1.4.0/bin" />
@@ -19638,6 +19650,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.23/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.23/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.24, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.24/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.24/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.24/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.3, RVM: ruby-2.2.5) [gem]">
