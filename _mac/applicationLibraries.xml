@@ -18026,6 +18026,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.6/samples" />
       </SOURCES>
     </library>
+    <library name="pdf-extract (v0.1.7, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-extract-0.1.7/samples" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/pdf-reader-1.4.0/bin" />
