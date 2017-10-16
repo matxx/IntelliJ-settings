@@ -12216,9 +12216,11 @@
     </library>
     <library name="hunspell (v0.1.7, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/0.1.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-0.1.7/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/0.1.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-0.1.7/lib" />
       </SOURCES>
     </library>
