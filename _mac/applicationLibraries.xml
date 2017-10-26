@@ -2870,6 +2870,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/arbre-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="archive-zip (v0.7.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/archive-zip-0.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/archive-zip-0.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="arel (v3.0.2, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/arel-3.0.2/lib" />
@@ -7660,6 +7668,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/database_cleaner-1.5.1/features" />
       </SOURCES>
     </library>
+    <library name="database_cleaner (v1.6.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/database_cleaner-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/database_cleaner-1.6.1/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/database_cleaner-1.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/database_cleaner-1.6.1/features" />
+      </SOURCES>
+    </library>
     <library name="debug_inspector (v0.0.2, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/debug_inspector/0.0.2" />
@@ -9912,6 +9930,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/ffi-1.9.18/libtest" />
       </SOURCES>
     </library>
+    <library name="ffi-hunspell (v0.4.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-hunspell-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ffi-hunspell-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="fish_transactions (v1.1.1@0d7caf, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/fish_transactions-0d7caf5fec74/bin" />
@@ -11808,6 +11834,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hash-utils-2.2.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="hashdiff (v0.3.7, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hashdiff-0.3.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hashdiff-0.3.7/lib" />
       </SOURCES>
     </library>
     <library name="hashery (v2.1.1, RVM: ruby-1.9.3-p551) [gem]">
@@ -13950,6 +13984,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="io-like (v0.3.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/io-like-0.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/io-like-0.3.0/lib" />
       </SOURCES>
     </library>
     <library name="ipaddress (v0.8.3, RVM: ruby-2.2.5) [gem]">
@@ -33764,6 +33806,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/web-console-3.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="webmock (v3.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.1.0/minitest" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webmock-3.1.0/minitest" />
       </SOURCES>
     </library>
     <library name="websocket (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
