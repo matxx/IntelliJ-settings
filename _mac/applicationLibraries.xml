@@ -8890,6 +8890,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20160826/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20161021, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20170404/lib" />
@@ -9418,6 +9430,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.54.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.54.0/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.54.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.54.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.54.0/benchmarks" />
       </SOURCES>
     </library>
     <library name="excon (v0.57.0, RVM: ruby-2.2.5) [gem]">
@@ -12362,6 +12388,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/hashie-3.5.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="heroics (v0.0.17, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/heroics-0.0.17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/heroics-0.0.17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/heroics-0.0.17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/heroics-0.0.17/lib" />
       </SOURCES>
     </library>
     <library name="heroics (v0.0.22, RVM: ruby-2.2.5) [gem]">
@@ -17768,6 +17804,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/momentjs-rails-2.17.1/vendor" />
       </SOURCES>
     </library>
+    <library name="moneta (v0.8.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/moneta-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/moneta-0.8.0/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/moneta-0.8.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/moneta-0.8.0/script" />
+      </SOURCES>
+    </library>
     <library name="moneta (v0.8.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/moneta-0.8.1/lib" />
@@ -22228,6 +22274,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-notifier-0.1.7/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-notifier-0.1.7/lib" />
+      </SOURCES>
+    </library>
+    <library name="purchease-notifier (v0.1.8, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-notifier-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-notifier-0.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-notifier-0.1.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-notifier-0.1.8/lib" />
       </SOURCES>
     </library>
     <library name="purchease-notifier-0.0.12 (v0.0.12, RVM: ruby-2.1.8) [gem]">
@@ -28536,6 +28592,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rturk-2.10.3/aws_docs" />
       </SOURCES>
     </library>
+    <library name="rturk (v2.12.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rturk-2.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rturk-2.12.1/aws_docs" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rturk-2.12.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rturk-2.12.1/aws_docs" />
+      </SOURCES>
+    </library>
     <library name="rturk-2.10.2 (v2.10.2, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rturk-2.10.2/lib" />
@@ -32892,6 +32958,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/treetop-1.4.15/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/treetop-1.4.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="treetop (v1.6.7, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/treetop-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/treetop-1.6.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/treetop-1.6.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/treetop-1.6.8/lib" />
       </SOURCES>
     </library>
     <library name="treetop-1.4.14 (v1.4.14, RVM: ruby-2.1.8) [gem]">
