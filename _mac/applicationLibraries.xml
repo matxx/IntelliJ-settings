@@ -3876,6 +3876,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/aws-sdk-2.6.12/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-2.6.14 (v2.6.14, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.6.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.6.14/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-2.6.50 (v2.6.50, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-2.6.50/lib" />
@@ -4056,6 +4064,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/aws-sdk-core-2.6.12/apis" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-core-2.6.14 (v2.6.14, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.14/apis" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-core-2.6.50 (v2.6.50, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-core-2.6.50/bin" />
@@ -4210,6 +4230,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/aws-sdk-resources-2.6.12/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources-2.6.14 (v2.6.14, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.6.14/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/aws-sdk-resources-2.6.14/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources-2.6.50 (v2.6.50, RVM: ruby-2.3.3) [gem]">
@@ -8846,6 +8874,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/dogstatsd-ruby-2.2.0/lib" />
       </SOURCES>
     </library>
+    <library name="dogstatsd-ruby-3.0.0 (v3.0.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dogstatsd-ruby-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/dogstatsd-ruby-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="dogstatsd-ruby-3.0.0 (v3.0.0, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/dogstatsd-ruby-3.0.0/lib" />
@@ -9072,6 +9108,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/equalizer-0.0.11/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/equalizer-0.0.11/config" />
+      </SOURCES>
+    </library>
+    <library name="erector-0.10.0 (v0.10.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/erector-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/erector-0.10.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/erector-0.10.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/erector-0.10.0/lib" />
       </SOURCES>
     </library>
     <library name="erubi (v1.6.1, RVM: ruby-2.2.5) [gem]">
@@ -20916,6 +20962,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="platform-api-0.8.0 (v0.8.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-0.8.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-0.8.0/lib" />
       </SOURCES>
     </library>
     <library name="plist (v3.2.0, RVM: ruby-1.9.3-p551) [gem]">
