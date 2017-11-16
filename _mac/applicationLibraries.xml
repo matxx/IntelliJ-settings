@@ -1602,6 +1602,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/activerecord-import-0.19.1/benchmarks" />
       </SOURCES>
     </library>
+    <library name="activerecord-import-0.20.2 (v0.20.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v3.2.13, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activeresource-3.2.13/lib" />
@@ -23098,6 +23110,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/purchease-settings-0.2.34/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/purchease-settings-0.2.34/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.2.36 (v0.2.36, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.36/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.36/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.36/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.36/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.2.39 (v0.2.39, RVM: ruby-2.3.3) [gem]">
