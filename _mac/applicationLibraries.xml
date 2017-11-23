@@ -13704,21 +13704,17 @@
     </library>
     <library name="hunspell (v0.1.7, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/0.1.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-0.1.7/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/0.1.7" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-0.1.7/lib" />
       </SOURCES>
     </library>
     <library name="hunspell (v1.0.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-1.0.0/lib" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/hunspell/1.0.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hunspell-1.0.0/lib" />
       </SOURCES>
     </library>
@@ -15696,7 +15692,6 @@
     </library>
     <library name="json (v2.0.4, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/2.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/data" />
@@ -15707,7 +15702,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/references" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/2.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/data" />
@@ -17022,14 +17016,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/method_source-0.8.1/lib" />
       </SOURCES>
     </library>
-    <library name="method_source (v0.8.1, RVM: ruby-2.2.5) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.9.0/lib" />
-      </SOURCES>
-    </library>
     <library name="method_source (v0.8.2, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/method_source-0.8.2/lib" />
@@ -17052,6 +17038,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="method_source (v0.9.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/method_source-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="method_source-0.8.2 (v0.8.2, RVM: ruby-2.1.8) [gem]">
@@ -21466,6 +21460,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-0.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry (v0.11.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-0.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-0.11.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-0.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="pry (v0.9.12.2, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/pry-0.9.12.2/bin" />
@@ -24712,6 +24716,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-0.7.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-0.7.4/rails" />
+      </SOURCES>
+    </library>
+    <library name="rails-i18n (v5.0.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-5.0.4/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-5.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rails-i18n-5.0.4/rails" />
       </SOURCES>
     </library>
     <library name="rails-i18n-0.7.3 (v0.7.3, RVM: ruby-2.1.8) [gem]">
