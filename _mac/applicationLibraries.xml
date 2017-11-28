@@ -21294,6 +21294,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/parser-2.4.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.4.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.4.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.4.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.4.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="parser-2.3.1.0 (v2.3.1.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/parser-2.3.1.0/bin" />
