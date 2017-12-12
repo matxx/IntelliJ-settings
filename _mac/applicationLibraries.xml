@@ -10456,6 +10456,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.57.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.59.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/excon-0.59.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="excon-0.25.3 (v0.25.3, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/excon-0.25.3/lib" />
@@ -13404,6 +13418,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.22/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.22/lib" />
+      </SOURCES>
+    </library>
+    <library name="heroics (v0.0.24, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.24/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.24/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/heroics-0.0.24/lib" />
       </SOURCES>
     </library>
     <library name="heroku-api (v0.3.15, RVM: ruby-1.9.3-p551) [gem]">
@@ -20200,6 +20224,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.2.5.pre.beta8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job-0.1.4 (v0.1.4, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/next_job-0.1.4/bin" />
@@ -22008,6 +22042,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.0.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.0.0/config" />
+      </SOURCES>
+    </library>
+    <library name="platform-api (v2.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.1.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/platform-api-2.1.0/config" />
       </SOURCES>
     </library>
     <library name="platform-api-0.8.0 (v0.8.0, RVM: ruby-2.3.3) [gem]">
@@ -27940,6 +27984,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/redis-3.3.3/benchmarking" />
       </SOURCES>
     </library>
+    <library name="redis (v3.3.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/.travis" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-3.3.5/benchmarking" />
+      </SOURCES>
+    </library>
     <library name="redis-3.3.0 (v3.3.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/redis-3.3.0/lib" />
@@ -28054,6 +28110,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-namespace-1.5.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis-namespace (v1.5.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-namespace-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/redis-namespace-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="redis-namespace-1.5.2 (v1.5.2, RVM: ruby-2.1.8) [gem]">
@@ -32842,6 +32906,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-3.7.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-3.7.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="sprockets (v4.0.0.beta6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-4.0.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-4.0.0.beta6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-4.0.0.beta6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-4.0.0.beta6/lib" />
       </SOURCES>
     </library>
     <library name="sprockets-2.1.4 (v2.1.4, RVM: ruby-2.3.3) [gem]">
