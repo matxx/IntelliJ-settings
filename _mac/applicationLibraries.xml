@@ -3408,6 +3408,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.4/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow (v0.2.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.8/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow-0.1.25 (v0.1.25, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/async_workflow-0.1.25/bin" />
@@ -7802,6 +7812,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/chunky_png-1.3.5/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/chunky_png-1.3.5/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/chunky_png-1.3.5/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="chunky_png (v1.3.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/chunky_png-1.3.8/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="climate_control (v0.2.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/climate_control-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/climate_control-0.2.0/lib" />
       </SOURCES>
     </library>
     <library name="clockwork (v0.5.5, RVM: ruby-1.9.3-p551) [gem]">
@@ -12562,6 +12592,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.0/images" />
+      </SOURCES>
+    </library>
+    <library name="grocer (v0.7.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.1/images" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/grocer-0.7.1/images" />
       </SOURCES>
     </library>
     <library name="grocer-0.6.1 (v0.6.1, RVM: ruby-2.1.8) [gem]">
@@ -18822,6 +18862,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/minitest-5.9.1/lib" />
       </SOURCES>
     </library>
+    <library name="miro (v0.4.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/miro-0.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/miro-0.4.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mock_redis (v0.17.3, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mock_redis-0.17.3/lib" />
@@ -20234,6 +20282,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job-0.1.4 (v0.1.4, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/next_job-0.1.4/bin" />
@@ -20928,6 +20986,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/oauth2-0.8.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="oily_png (v1.2.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/oily_png/1.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/oily_png/1.2.1" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oily_png-1.2.1/tasks" />
       </SOURCES>
     </library>
     <library name="oj (v2.1.2, RVM: ruby-2.1.8) [gem]">
@@ -24434,6 +24506,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/purchease_toolbelt-0.4.15/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/purchease_toolbelt-0.4.15/assets" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/purchease_toolbelt-0.4.15/config" />
+      </SOURCES>
+    </library>
+    <library name="rabl (v0.13.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.13.1/fixtures" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rabl-0.13.1/fixtures" />
       </SOURCES>
     </library>
     <library name="rabl (v0.6.0@0df188, RVM: ruby-1.9.3-p551 [global]) [gem]">
@@ -28734,6 +28816,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.0/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="resque-scheduler (v4.3.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/lib" />
       </SOURCES>
     </library>
     <library name="resque-scheduler-4.2.0 (v4.2.0, RVM: ruby-2.1.8) [gem]">
