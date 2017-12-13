@@ -7942,6 +7942,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/clockwork-2.0.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="cocaine (v0.5.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/cocaine-0.5.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/cocaine-0.5.8/lib" />
+      </SOURCES>
+    </library>
     <library name="coderay (v1.0.9, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/coderay-1.0.9/bin" />
@@ -8362,6 +8370,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/coffee-script-source-1.6.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="color (v1.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/color-1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/color-1.8/lib" />
       </SOURCES>
     </library>
     <library name="colorize (v0.7.7, RVM: ruby-1.9.3-p551) [gem]">
@@ -10250,6 +10266,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/erubis-2.7.0/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/erubis-2.7.0/doc-api" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/erubis-2.7.0/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="et-orbi (v1.0.8, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/et-orbi-1.0.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/et-orbi-1.0.8/lib" />
       </SOURCES>
     </library>
     <library name="eventmachine (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
@@ -18868,6 +18892,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/miro-0.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="mjml-haml (v0.1.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mjml-haml-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mjml-haml-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="mjml-rails (v2.4.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mjml-rails-2.4.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/mjml-rails-2.4.3/lib" />
       </SOURCES>
     </library>
     <library name="mock_redis (v0.17.3, RVM: ruby-2.2.5) [gem]">
@@ -30994,6 +31034,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rufus-scheduler-3.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rufus-scheduler (v3.4.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rufus-scheduler-3.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rufus-scheduler-3.4.2/lib" />
       </SOURCES>
     </library>
     <library name="rufus-scheduler-3.2.1 (v3.2.1, RVM: ruby-2.1.8) [gem]">
