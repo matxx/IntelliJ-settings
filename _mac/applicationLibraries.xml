@@ -3388,6 +3388,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.1.25/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow (v0.2.11, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.11/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow (v0.2.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.2/bin" />
@@ -20352,6 +20362,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.3/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job-0.1.4 (v0.1.4, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/next_job-0.1.4/bin" />
@@ -21006,6 +21026,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="oauth (v0.5.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.3/lib" />
       </SOURCES>
     </library>
     <library name="oauth2 (v0.8.1, RVM: ruby-1.9.3-p551) [gem]">
@@ -22702,6 +22732,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-byebug-3.5.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.5.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-byebug-3.5.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pry-byebug-3.5.1/lib" />
       </SOURCES>
     </library>
     <library name="pry-byebug-3.4.2 (v3.4.2, RVM: ruby-2.3.3) [gem]">
