@@ -3408,6 +3408,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.15/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow (v0.2.16, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.16/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow (v0.2.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/async_workflow-0.2.2/bin" />
