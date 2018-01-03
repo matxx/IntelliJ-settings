@@ -13596,6 +13596,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/hashie-3.5.7/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.5.7, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hashie-3.5.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hashie-3.5.7/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie-2.0.5 (v2.0.5, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/hashie-2.0.5/lib" />
@@ -24504,6 +24512,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.48/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.48/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.48, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.48/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.48/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.48/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.48/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.8, RVM: ruby-2.2.5) [gem]">
