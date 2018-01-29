@@ -1626,6 +1626,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-import-0.20.2/benchmarks" />
       </SOURCES>
     </library>
+    <library name="activerecord-redshift-adapter (v0.9.12, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-redshift-adapter-0.9.12/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activerecord-redshift-adapter-0.9.12/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource (v3.2.13, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activeresource-3.2.13/lib" />
@@ -8036,6 +8044,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/clockwork-0.5.5/gemfiles" />
       </SOURCES>
     </library>
+    <library name="clockwork (v2.0.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/clockwork-2.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="clockwork-0.5.5 (v0.5.5, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/clockwork-0.5.5/bin" />
@@ -10108,6 +10128,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20161021/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20170223, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/domain_name-0.5.20170223/tool" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.20170404, RVM: ruby-2.2.5) [gem]">
@@ -14294,6 +14326,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hpricot-0.8.6/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hpricot-0.8.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hpricot-0.8.6/extras" />
+      </SOURCES>
+    </library>
+    <library name="html2haml (v2.1.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/html2haml-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/html2haml-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/html2haml-2.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/html2haml-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="html2haml-1.0.1 (v1.0.1, RVM: ruby-2.3.3) [gem]">
@@ -21888,6 +21930,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parslet-1.7.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parslet-1.7.1/example" />
+      </SOURCES>
+    </library>
+    <library name="partitioned (v2.1.0@ec6e86, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/partitioned-ec6e8685f4a7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/partitioned-ec6e8685f4a7/travis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/partitioned-ec6e8685f4a7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/bundler/gems/partitioned-ec6e8685f4a7/travis" />
       </SOURCES>
     </library>
     <library name="passbook (v0.2.1, RVM: ruby-1.9.3-p551) [gem]">
@@ -33820,6 +33872,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/sshkit-1.12.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="statistics2 (v0.54, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/statistics2-0.54/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/statistics2-0.54/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/statistics2-0.54/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/statistics2-0.54/lib" />
       </SOURCES>
     </library>
     <library name="strongbox (v0.7.0, RVM: ruby-1.9.3-p551) [gem]">
