@@ -20828,6 +20828,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/nio4r-2.1.0/tasks" />
       </SOURCES>
     </library>
+    <library name="nio4r (v2.2.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nio4r-2.2.0/tasks" />
+      </SOURCES>
+    </library>
     <library name="nio4r-1.2.1 (v1.2.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/nio4r-1.2.1/ext" />
@@ -35950,6 +35962,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="uglifier (v4.1.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.5/lib" />
+      </SOURCES>
+    </library>
     <library name="uglifier-2.1.1 (v2.1.1, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/uglifier-2.1.1/lib" />
@@ -36970,6 +36990,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.1.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.1.1/package" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.1.1/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="webpacker (v3.2.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/webpacker-3.2.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="websocket (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
