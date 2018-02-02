@@ -7288,6 +7288,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/by_star-1.0.1/tmp" />
       </SOURCES>
     </library>
+    <library name="byebug (v10.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/byebug-10.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="byebug (v9.0.6, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/byebug/9.0.6" />
@@ -7482,6 +7494,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.16.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.16.1/.yard" />
+      </SOURCES>
+    </library>
+    <library name="capybara (v2.17.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.17.0/.yard" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.17.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/capybara-2.17.0/.yard" />
       </SOURCES>
     </library>
     <library name="capybara-2.15.1 (v2.15.1, RVM: ruby-2.3.3) [gem]">
@@ -15136,6 +15158,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n (v0.9.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n-0.6.1 (v0.6.1, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/i18n-0.6.1/ci" />
@@ -19044,6 +19076,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/minitest-5.10.3/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.11.3, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/minitest-5.11.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/minitest-5.11.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, RVM: ruby-2.2.5 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5@global/gems/minitest-5.4.3/lib" />
@@ -21060,6 +21100,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.1/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.1/patches" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.1/suppressions" />
+      </SOURCES>
+    </library>
+    <library name="nokogiri (v1.8.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/suppressions" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/patches" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/nokogiri-1.8.2/suppressions" />
       </SOURCES>
     </library>
     <library name="nokogiri-1.5.10 (v1.5.10, RVM: ruby-2.1.8) [gem]">
@@ -23712,6 +23770,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.0/tools" />
       </SOURCES>
     </library>
+    <library name="puma (v3.11.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/puma-3.11.2/tools" />
+      </SOURCES>
+    </library>
     <library name="puma (v3.4.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/puma/3.4.0" />
@@ -25332,6 +25404,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.3/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.3/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v2.0.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rack-2.0.4/example" />
       </SOURCES>
     </library>
     <library name="rack-1.4.7 (v1.4.7, RVM: ruby-2.1.8) [gem]">
@@ -32014,6 +32100,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.3/rails" />
       </SOURCES>
     </library>
+    <library name="sass (v3.5.5, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/rails" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/extra" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sass-3.5.5/rails" />
+      </SOURCES>
+    </library>
     <library name="sass-3.2.9 (v3.2.9, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/sass-3.2.9/bin" />
@@ -35426,6 +35526,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-5.0.1/lib" />
       </SOURCES>
     </library>
+    <library name="turbolinks (v5.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-5.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="turbolinks-2.5.3 (v2.5.3, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/turbolinks-2.5.3/lib" />
@@ -35480,6 +35588,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-source-5.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="turbolinks-source (v5.1.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-source-5.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/turbolinks-source-5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="turbolinks-source-5.0.0 (v5.0.0, RVM: ruby-2.3.1) [gem]">
@@ -37316,6 +37432,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xpath-2.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="xpath (v3.0.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xpath-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/xpath-3.0.0/lib" />
       </SOURCES>
     </library>
     <library name="xpath-2.1.0 (v2.1.0, RVM: ruby-2.3.3) [gem]">
