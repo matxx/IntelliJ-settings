@@ -36876,6 +36876,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/vagrant-1.5.0/bin" />
       </SOURCES>
     </library>
+    <library name="vat-siren-siret (v0.1.0@078f88, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-078f888dfef8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-078f888dfef8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-078f888dfef8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-078f888dfef8/lib" />
+      </SOURCES>
+    </library>
     <library name="vat-siren-siret (v0.1.0@409992, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-409992ee028c/bin" />
