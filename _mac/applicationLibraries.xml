@@ -36886,6 +36886,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-409992ee028c/lib" />
       </SOURCES>
     </library>
+    <library name="vat-siren-siret (v0.1.0@c87dec, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-c87dec8501b5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-c87dec8501b5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-c87dec8501b5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/vat-siren-siret-c87dec8501b5/lib" />
+      </SOURCES>
+    </library>
     <library name="vegas (v0.1.11, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/vegas-0.1.11/lib" />
