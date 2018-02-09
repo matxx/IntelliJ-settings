@@ -7246,6 +7246,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/bundler-1.15.4/task" />
       </SOURCES>
     </library>
+    <library name="bundler (v1.16.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/man" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bundler-1.16.1/man" />
+      </SOURCES>
+    </library>
     <library name="bundler-1.11.2 (v1.11.2, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/bundler-1.11.2/bin" />
@@ -9606,6 +9618,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.3.0/config" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.3.0/guides" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.3.0/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="devise (v4.4.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/guides" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/devise-4.4.1/gemfiles" />
       </SOURCES>
     </library>
     <library name="devise-2.2.4 (v2.2.4, RVM: ruby-2.1.8) [gem]">
@@ -15502,6 +15532,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.3/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v0.9.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.4/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/i18n-0.9.4/gemfiles" />
       </SOURCES>
     </library>
     <library name="i18n-0.6.1 (v0.6.1, RVM: ruby-2.3.3) [gem]">
@@ -36858,6 +36898,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.6/lib" />
       </SOURCES>
     </library>
     <library name="uglifier-2.1.1 (v2.1.1, RVM: ruby-2.1.8) [gem]">
