@@ -28596,6 +28596,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rake-12.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="ransack (v1.8.6, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ransack-1.8.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ransack-1.8.6/lib" />
+      </SOURCES>
+    </library>
     <library name="ransack (v1.8.7, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/ransack-1.8.7/lib" />
@@ -36904,6 +36912,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="uglifier (v4.1.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/uglifier-4.1.4/lib" />
       </SOURCES>
     </library>
     <library name="uglifier (v4.1.5, RVM: ruby-2.2.5) [gem]">
