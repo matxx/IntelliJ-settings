@@ -4102,6 +4102,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.0.6.pre/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk (v2.10.124, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.10.124/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.10.124/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v2.10.127, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-2.10.127/lib" />
@@ -4496,6 +4504,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.0.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.0.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.0.6/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core (v2.10.124, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-core-2.10.124/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core (v2.10.127, RVM: ruby-2.2.5) [gem]">
@@ -5188,6 +5208,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.0.6.pre/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-resources (v2.10.124, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.10.124/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/aws-sdk-resources-2.10.124/lib" />
       </SOURCES>
     </library>
     <library name="aws-sdk-resources (v2.10.127, RVM: ruby-2.2.5) [gem]">
