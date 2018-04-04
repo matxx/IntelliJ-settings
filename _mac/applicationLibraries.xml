@@ -25468,6 +25468,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.11, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.11/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.11/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.11/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job (v0.3.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/bin" />
@@ -30712,6 +30722,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.64/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.64/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.69, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.69/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.69/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.69/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.69/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.8, RVM: ruby-2.2.5) [gem]">
