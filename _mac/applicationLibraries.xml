@@ -27210,6 +27210,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/omniauth-facebook-1.4.1/example" />
       </SOURCES>
     </library>
+    <library name="omniauth-facebook-1.5.1 (v1.5.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/omniauth-facebook-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/omniauth-facebook-1.5.1/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/omniauth-facebook-1.5.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/omniauth-facebook-1.5.1/example" />
+      </SOURCES>
+    </library>
     <library name="omniauth-oauth2 (v1.1.1, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/omniauth-oauth2-1.1.1/lib" />
