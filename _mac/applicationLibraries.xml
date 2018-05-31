@@ -22160,6 +22160,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/jquery-rails-3.1.4/vendor" />
       </SOURCES>
     </library>
+    <library name="jquery-rails (v3.1.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jquery-rails-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jquery-rails-3.1.5/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jquery-rails-3.1.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jquery-rails-3.1.5/vendor" />
+      </SOURCES>
+    </library>
     <library name="jquery-rails (v4.2.1, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/jquery-rails-4.2.1/lib" />
@@ -34068,6 +34078,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.73/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.73/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.74, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.8, RVM: ruby-2.2.5) [gem]">
