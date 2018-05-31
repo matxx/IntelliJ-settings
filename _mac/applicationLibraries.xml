@@ -20042,6 +20042,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.6/features" />
       </SOURCES>
     </library>
+    <library name="httparty (v0.16.2, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.16.2/features" />
+      </SOURCES>
+    </library>
     <library name="httparty-0.11.0 (v0.11.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/httparty-0.11.0/bin" />
@@ -34088,6 +34104,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.74/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.75, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.8, RVM: ruby-2.2.5) [gem]">
