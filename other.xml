@@ -34,10 +34,36 @@
           <State>
             <id />
           </State>
+          <State>
+            <id>RubocopRuby</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>RubocopInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="only rubocop">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>RubocopRuby</id>
+          </State>
+          <State>
+            <id>Ruby</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>RubocopInspection</id>
           </State>
         </selected-state>
       </profile-state>
