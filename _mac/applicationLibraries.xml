@@ -7614,6 +7614,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/axlsx_rails-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="axlsx_rails-0.5.2 (v0.5.2, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/axlsx_rails-0.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/axlsx_rails-0.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="barby (v0.5.1, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/barby-0.5.1/bin" />
@@ -19906,6 +19914,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/htmlentities-4.3.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/htmlentities-4.3.4/perf" />
+      </SOURCES>
+    </library>
+    <library name="htmlentities-4.3.4 (v4.3.4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/htmlentities-4.3.4/perf" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/htmlentities-4.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
     <library name="htmlentities-4.3.4 (v4.3.4, RVM: ruby-2.4.1) [gem]">
@@ -51228,6 +51246,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/virtus-1.0.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="vuejs-rails-2.5.13 (v2.5.13, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vuejs-rails-2.5.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vuejs-rails-2.5.13/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vuejs-rails-2.5.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vuejs-rails-2.5.13/vendor" />
       </SOURCES>
     </library>
     <library name="vueport-0.1.1 (v0.1.1, RVM: ruby-2.3.1) [gem]">
