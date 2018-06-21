@@ -14000,6 +14000,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/domain_name-0.5.20180417/tool" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/domain_name-0.5.20180417/tool" />
+      </SOURCES>
+    </library>
     <library name="domain_name-0.5.20160310 (v0.5.20160310, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/domain_name-0.5.20160310/lib" />
@@ -19954,6 +19966,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
+    <library name="http (v3.3.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http-cookie (v1.0.2, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/http-cookie-1.0.2/lib" />
@@ -19976,6 +19996,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-cookie (v1.0.3, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-cookie-1.0.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
     <library name="http-cookie-1.0.2 (v1.0.2, RVM: ruby-2.1.8) [gem]">
@@ -20026,6 +20054,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/http-cookie-1.0.3/lib" />
       </SOURCES>
     </library>
+    <library name="http-form_data (v2.1.1, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-form_data-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-form_data-2.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="http_parser.rb (v0.6.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/http_parser.rb-0.6.0/ext" />
@@ -20052,6 +20088,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http_parser.rb-0.6.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http_parser.rb-0.6.0/bench" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http_parser.rb-0.6.0/tasks" />
+      </SOURCES>
+    </library>
+    <library name="http_parser.rb (v0.6.0, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/http_parser.rb/0.6.0" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/bench" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http_parser.rb-0.6.0/tasks" />
       </SOURCES>
     </library>
     <library name="http_parser.rb-0.6.0 (v0.6.0, RVM: ruby-2.2.9) [gem]">
@@ -50380,6 +50432,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf (v0.1.4, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/unf-0.1.4/lib" />
       </SOURCES>
     </library>
     <library name="unf-0.1.4 (v0.1.4, RVM: ruby-2.1.8) [gem]">
