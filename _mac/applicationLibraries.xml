@@ -34798,6 +34798,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.77/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings-0.2.78 (v0.2.78, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.78/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.78/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.78/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.78/config" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings-0.2.8 (v0.2.8, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.8/lib" />
