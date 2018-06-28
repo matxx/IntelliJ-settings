@@ -34788,6 +34788,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.7/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings-0.2.77 (v0.2.77, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.77/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.77/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.77/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/purchease-settings-0.2.77/config" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings-0.2.8 (v0.2.8, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.8/lib" />
@@ -36582,6 +36592,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rails-5.1.5" />
       </SOURCES>
     </library>
+    <library name="rails-5.1.6 (v5.1.6, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rails-5.1.6" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/rails-5.1.6" />
+      </SOURCES>
+    </library>
     <library name="rails-5.1.6 (v5.1.6, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rails-5.1.6" />
@@ -37776,6 +37794,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/railties-5.1.5/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/railties-5.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="railties-5.1.6 (v5.1.6, RVM: ruby-2.3.4) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/railties-5.1.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/railties-5.1.6/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/railties-5.1.6/lib" />
       </SOURCES>
     </library>
     <library name="railties-5.1.6 (v5.1.6, RVM: ruby-2.4.3) [gem]">
