@@ -8486,6 +8486,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="bindex (v0.5.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bindex/0.5.0" />
@@ -14054,6 +14124,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20170404/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20170404/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20170404/tool" />
+      </SOURCES>
+    </library>
+    <library name="domain_name (v0.5.20180417, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/domain_name-0.5.20180417/tool" />
       </SOURCES>
     </library>
     <library name="domain_name (v0.5.20180417, RVM: ruby-2.2.9) [gem]">
@@ -20074,6 +20156,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/htmlentities-4.3.4/perf" />
       </SOURCES>
     </library>
+    <library name="http (v3.3.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http-3.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http-3.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="http (v3.3.0, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/http-3.3.0/lib" />
@@ -20160,6 +20250,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/http-cookie-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="http-form_data (v2.1.1, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http-form_data-2.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/http-form_data-2.1.1/lib" />
       </SOURCES>
     </library>
     <library name="http-form_data (v2.1.1, RVM: ruby-2.3.4) [gem]">
@@ -20330,6 +20428,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.6/script" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.6/website" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/httparty-0.15.6/features" />
+      </SOURCES>
+    </library>
+    <library name="httparty (v0.16.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/website" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/httparty-0.16.2/features" />
       </SOURCES>
     </library>
     <library name="httparty (v0.16.2, RVM: ruby-2.3.3) [gem]">
@@ -21784,6 +21898,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="io-console (v0.4.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="io-like (v0.3.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/io-like-0.3.0/lib" />
@@ -23228,6 +23412,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.3, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/json/1.8.3" />
@@ -23314,6 +23568,7 @@
     </library>
     <library name="json (v2.0.4, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/2.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/data" />
@@ -23324,6 +23579,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/references" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/json/2.0.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/data" />
@@ -32866,6 +33122,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v3.0.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.0/bin" />
@@ -32900,6 +33226,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.1/data" />
+      </SOURCES>
+    </library>
+    <library name="public_suffix (v3.0.2, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/public_suffix-3.0.2/data" />
       </SOURCES>
     </library>
     <library name="public_suffix (v3.0.2, RVM: ruby-2.2.9) [gem]">
@@ -34386,6 +34724,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.2.75/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.77, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.77/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.77/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.77/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.77/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.77, RVM: ruby-2.2.9) [gem]">
@@ -38458,6 +38806,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1@global/gems/rake-10.4.2/bin" />
@@ -39724,6 +40142,76 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/bigdecimal" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/x86_64-darwin16" />
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.5/lib/ruby/2.2.0/unicode_normalize" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/io" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tk" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/cgi" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/drb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/irb" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/net" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rss" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/uri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/racc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rake" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rdoc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/yaml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/psych" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rexml" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rinda" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/shell" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/digest" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/fiddle" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/matrix" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/ripper" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/syslog" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/xmlrpc" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/openssl" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/webrick" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/optparse" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rbconfig" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/rubygems" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/tkextlib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/bigdecimal" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/x86_64-darwin16" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.1, RVM: ruby-2.1.8) [gem]">
