@@ -3352,6 +3352,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-7.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake (v7.3.4, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-7.3.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-7.3.4/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake-3.1.12 (v3.1.12, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/airbrake-3.1.12/bin" />
@@ -3554,6 +3562,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-ruby-1.8.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="airbrake-ruby (v2.11.0, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-ruby-2.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-ruby-2.11.0/lib" />
       </SOURCES>
     </library>
     <library name="airbrake-ruby (v2.2.5, RVM: ruby-2.2.5) [gem]">
@@ -34918,6 +34934,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.77/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.2.77/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.2.78, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.78/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.78/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.78/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/purchease-settings-0.2.78/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.2.8, RVM: ruby-2.2.5) [gem]">
