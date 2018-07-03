@@ -61,17 +61,21 @@
             <id />
           </State>
           <State>
+            <id>Cucumber</id>
+          </State>
+          <State>
+            <id>Naming ConventionsRuby</id>
+          </State>
+          <State>
+            <id>Rails</id>
+          </State>
+          <State>
             <id>RubocopRuby</id>
           </State>
           <State>
             <id>Ruby</id>
           </State>
         </expanded-state>
-        <selected-state>
-          <State>
-            <id>RubocopInspection</id>
-          </State>
-        </selected-state>
       </profile-state>
     </entry>
   </component>
