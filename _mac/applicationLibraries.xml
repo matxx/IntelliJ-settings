@@ -31984,6 +31984,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/pdf-reader-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="pdf-reader (v2.1.0@7fa719, RVM: ruby-2.2.5) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/tools" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/pdf-reader-7fa71990d83c/tools" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader-2.0.0 (v2.0.0, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/pdf-reader-2.0.0/bin" />
