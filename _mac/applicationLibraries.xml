@@ -19276,6 +19276,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/bundler/gems/gmail-4f78039e9821/lib" />
       </SOURCES>
     </library>
+    <library name="gmail (v0.6.0@4f7803, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/gmail-4f78039e9821/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/gmail-4f78039e9821/lib" />
+      </SOURCES>
+    </library>
     <library name="gmail (v0.6.0@4f7803, RVM: ruby-2.3.4) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/bundler/gems/gmail-4f78039e9821/lib" />
@@ -19290,6 +19298,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gmail_xoauth-0.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="gmail_xoauth-0.4.2 (v0.4.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gmail_xoauth-0.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gmail_xoauth-0.4.2/lib" />
       </SOURCES>
     </library>
     <library name="gmail_xoauth-0.4.2 (v0.4.2, RVM: ruby-2.3.4) [gem]">
@@ -32116,6 +32132,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/oauth-0.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="oauth-0.5.4 (v0.5.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/oauth-0.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/oauth-0.5.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/oauth-0.5.4/lib" />
       </SOURCES>
     </library>
     <library name="oauth-0.5.4 (v0.5.4, RVM: ruby-2.3.4) [gem]">
