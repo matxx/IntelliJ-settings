@@ -16,8 +16,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.coffee</mask>
-      <mask>*.rabl</mask>
       <mask>*.rb</mask>
+      <mask>*.rabl</mask>
     </recentFileMasks>
   </component>
 </application>
