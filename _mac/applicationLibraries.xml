@@ -426,6 +426,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/actionmailer-3.2.22.2/lib" />
       </SOURCES>
     </library>
+    <library name="actionmailer-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/actionmailer-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/actionmailer-3.2.22.4/lib" />
+      </SOURCES>
+    </library>
     <library name="actionmailer-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/actionmailer-3.2.22.4/lib" />
@@ -784,6 +792,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/actionpack-3.2.22.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="actionpack-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/actionpack-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/actionpack-3.2.22.4/lib" />
       </SOURCES>
     </library>
     <library name="actionpack-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
@@ -1854,6 +1870,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activemodel-3.2.22.2/lib" />
       </SOURCES>
     </library>
+    <library name="activemodel-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activemodel-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activemodel-3.2.22.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activemodel-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activemodel-3.2.22.4/lib" />
@@ -2212,6 +2236,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activerecord-3.2.22.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activerecord-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activerecord-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activerecord-3.2.22.4/lib" />
       </SOURCES>
     </library>
     <library name="activerecord-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
@@ -2638,6 +2670,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activeresource-3.2.22.2/lib" />
       </SOURCES>
     </library>
+    <library name="activeresource-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activeresource-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activeresource-3.2.22.4/lib" />
+      </SOURCES>
+    </library>
     <library name="activeresource-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/activeresource-3.2.22.4/lib" />
@@ -2840,6 +2880,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activesupport-3.2.22.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activesupport-3.2.22.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/activesupport-3.2.22.4/lib" />
       </SOURCES>
     </library>
     <library name="activesupport-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
@@ -4140,14 +4188,12 @@
     </library>
     <library name="amatch (v0.2.14@f6b5b0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/tests" />
       </CLASSES>
       <SOURCES>
-        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
@@ -22938,6 +22984,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/i18n-0.9.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="i18n-0.9.3 (v0.9.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/i18n-0.9.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/i18n-0.9.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/i18n-0.9.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="i18n-0.9.5 (v0.9.5, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/i18n-0.9.5/lib" />
@@ -27050,6 +27106,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/mail-2.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="mail-2.5.4 (v2.5.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mail-2.5.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mail-2.5.4/lib" />
       </SOURCES>
     </library>
     <library name="mail-2.5.4 (v2.5.4, RVM: ruby-2.3.3) [gem]">
@@ -39796,6 +39860,10 @@
       <CLASSES />
       <SOURCES />
     </library>
+    <library name="rails-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES />
+      <SOURCES />
+    </library>
     <library name="rails-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
       <CLASSES />
       <SOURCES />
@@ -40978,6 +41046,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/railties-3.2.22.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/railties-3.2.22.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/railties-3.2.22.2/guides" />
+      </SOURCES>
+    </library>
+    <library name="railties-3.2.22.4 (v3.2.22.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/guides" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/railties-3.2.22.4/guides" />
       </SOURCES>
     </library>
     <library name="railties-3.2.22.4 (v3.2.22.4, RVM: ruby-2.3.3) [gem]">
