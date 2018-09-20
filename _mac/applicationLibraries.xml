@@ -39208,6 +39208,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.3/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings-0.3.4 (v0.3.4, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.4/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.4/config" />
+      </SOURCES>
+    </library>
     <library name="purchease_toolbelt (v0.4.15, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/purchease_toolbelt-0.4.15/bin" />
