@@ -20102,6 +20102,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/googleauth-0.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="graphql-1.8.9 (v1.8.9, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/graphql-1.8.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/graphql-1.8.9/lib" />
+      </SOURCES>
+    </library>
     <library name="gravatar-ultimate (v2.0.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/gravatar-ultimate-2.0.0/lib" />
