@@ -40736,6 +40736,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/rack-proxy-0.6.2/lib" />
       </SOURCES>
     </library>
+    <library name="rack-proxy-0.6.5 (v0.6.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-proxy-0.6.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-proxy-0.6.5/lib" />
+      </SOURCES>
+    </library>
     <library name="rack-ssl (v1.3.3, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rack-ssl-1.3.3/lib" />
@@ -53348,6 +53356,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/sprockets-4.0.0.beta6/lib" />
       </SOURCES>
     </library>
+    <library name="sprockets-4.0.0.beta8 (v4.0.0.beta8, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sprockets-4.0.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sprockets-4.0.0.beta8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sprockets-4.0.0.beta8/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sprockets-4.0.0.beta8/lib" />
+      </SOURCES>
+    </library>
     <library name="sprockets-rails (v2.3.3, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/sprockets-rails-2.3.3/lib" />
@@ -58198,6 +58216,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/webpacker-3.0.2/package" />
+      </SOURCES>
+    </library>
+    <library name="webpacker-3.5.5 (v3.5.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/package" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/webpacker-3.5.5/gemfiles" />
       </SOURCES>
     </library>
     <library name="websocket (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
