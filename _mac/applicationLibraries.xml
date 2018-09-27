@@ -4424,12 +4424,14 @@
     </library>
     <library name="amatch (v0.2.14@f6b5b0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
@@ -33622,6 +33624,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/omniauth-oauth2-1.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="open_uri_redirections (v0.2.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/open_uri_redirections-0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/open_uri_redirections-0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="origin (v1.1.0, RVM: ruby-1.9.3-p551) [gem]">
