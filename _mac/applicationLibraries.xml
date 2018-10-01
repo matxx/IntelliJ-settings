@@ -4042,6 +4042,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/airbrake-7.3.4/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake-7.3.5 (v7.3.5, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrake-7.3.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrake-7.3.5/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake-ruby (v1.5.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/airbrake-ruby-1.5.0/lib" />
@@ -4144,6 +4152,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/airbrake-ruby-2.11.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="airbrake-ruby-2.11.0 (v2.11.0, RVM: ruby-2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrake-ruby-2.11.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/airbrake-ruby-2.11.0/lib" />
       </SOURCES>
     </library>
     <library name="airbrake-ruby-2.11.0 (v2.11.0, RVM: ruby-2.3.4) [gem]">
