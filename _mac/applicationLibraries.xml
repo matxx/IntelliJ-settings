@@ -26254,6 +26254,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.0.4/references" />
       </SOURCES>
     </library>
+    <library name="json (v2.0.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/references" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/java" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/tools" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/diagrams" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/json-2.0.4/references" />
+      </SOURCES>
+    </library>
     <library name="json (v2.1.0, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/json-2.1.0/ext" />
@@ -33990,6 +34012,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.1.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/parser-2.3.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.3.1.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.3.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.3.1.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.3.1.4/lib" />
       </SOURCES>
     </library>
     <library name="parser (v2.4.0.0, RVM: ruby-2.2.5) [gem]">
@@ -42770,6 +42802,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v2.1.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rainbow-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rainbow-2.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v2.2.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-2.2.2/ext" />
@@ -48062,6 +48102,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rspec-snapshot-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rspec-snapshot-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-snapshot (v0.1.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-snapshot-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-snapshot-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-snapshot-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-snapshot-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-snapshot-0.1.1 (v0.1.1, RVM: ruby-2.3.4) [gem]">
@@ -54278,6 +54328,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/thor-0.19.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/thor-0.19.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="thor (v0.19.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/thor-0.19.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/thor-0.19.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/thor-0.19.4/lib" />
       </SOURCES>
     </library>
     <library name="thor (v0.20.0, RVM: ruby-2.2.5) [gem]">
