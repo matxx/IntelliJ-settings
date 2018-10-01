@@ -42950,6 +42950,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/rainbow-3.0.0/lib" />
       </SOURCES>
     </library>
+    <library name="rainbow (v3.0.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rainbow-3.0.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rainbow-3.0.0/lib" />
+      </SOURCES>
+    </library>
     <library name="rainbow (v3.0.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/rainbow-3.0.0/lib" />
