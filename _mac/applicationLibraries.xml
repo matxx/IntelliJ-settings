@@ -21378,6 +21378,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/guard-rspec-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="guard-rspec-4.7.3 (v4.7.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="guard-rspec-4.7.3 (v4.7.3, RVM: ruby-2.4.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/guard-rspec-4.7.3/lib" />
@@ -49438,6 +49448,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-expectations-3.8.1/lib" />
       </SOURCES>
     </library>
+    <library name="rspec-expectations-3.8.2 (v3.8.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-expectations-3.8.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-expectations-3.8.2/lib" />
+      </SOURCES>
+    </library>
     <library name="rspec-instafail (v0.2.4, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rspec-instafail-0.2.4/lib" />
@@ -49866,6 +49884,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-rails-3.7.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-rails-3.8.1 (v3.8.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-rails-3.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rspec-rails-3.8.1/lib" />
       </SOURCES>
     </library>
     <library name="rspec-retry (v0.5.4, RVM: ruby-2.2.5) [gem]">
