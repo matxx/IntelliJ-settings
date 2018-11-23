@@ -40256,6 +40256,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.13/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings (v0.3.14, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.14/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.3.14, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/config" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings (v0.3.8, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.8/lib" />
