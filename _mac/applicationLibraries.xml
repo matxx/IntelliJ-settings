@@ -31804,6 +31804,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/multi_json-1.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json-1.13.1 (v1.13.1, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/multi_json-1.13.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/multi_json-1.13.1/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_json-1.13.1 (v1.13.1, RVM: ruby-2.3.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.6/gems/multi_json-1.13.1/lib" />
@@ -36836,6 +36844,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/platform-api-2.2.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/platform-api-2.2.0/config" />
+      </SOURCES>
+    </library>
+    <library name="platform-api-2.2.0 (v2.2.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-2.2.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-2.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/platform-api-2.2.0/config" />
       </SOURCES>
     </library>
     <library name="platform-api-2.2.0 (v2.2.0, RVM: ruby-2.5.1) [gem]">
