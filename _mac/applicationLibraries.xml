@@ -33228,6 +33228,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.2.5.pre.beta8/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.13, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job (v0.3.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/bin" />
