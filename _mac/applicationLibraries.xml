@@ -32228,6 +32228,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/mutations-0.8.2/lib" />
       </SOURCES>
     </library>
+    <library name="mutations (v0.9.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mutations-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mutations-0.9.0/lib" />
+      </SOURCES>
+    </library>
     <library name="mutations-0.7.2 (v0.7.2, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/mutations-0.7.2/lib" />
@@ -33256,6 +33264,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.13/lib" />
+      </SOURCES>
+    </library>
+    <library name="next_job (v0.3.15, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.15/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.15/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.15/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.15/lib" />
       </SOURCES>
     </library>
     <library name="next_job (v0.3.2, RVM: ruby-2.2.5) [gem]">
@@ -36208,6 +36226,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.20/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.20/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.20/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract (v0.2.23, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.2.23/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract (v0.2.6, RVM: ruby-2.2.9) [gem]">
