@@ -22262,6 +22262,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/hashie-3.6.0/lib" />
       </SOURCES>
     </library>
+    <library name="hashie (v3.6.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/hashie-3.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/hashie-3.6.0/lib" />
+      </SOURCES>
+    </library>
     <library name="hashie-2.0.5 (v2.0.5, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/hashie-2.0.5/lib" />
@@ -39610,6 +39618,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.5/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="purchease-notifier (v0.2.5, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.5/lib" />
       </SOURCES>
     </library>
     <library name="purchease-notifier-0.0.12 (v0.0.12, RVM: ruby-2.1.8) [gem]">
