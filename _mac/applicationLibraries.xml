@@ -30018,6 +30018,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/mimemagic-0.3.2/script" />
       </SOURCES>
     </library>
+    <library name="mimemagic-0.3.3 (v0.3.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mimemagic-0.3.3/script" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mimemagic-0.3.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mimemagic-0.3.3/script" />
+      </SOURCES>
+    </library>
     <library name="mini_magick (v4.3.6, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/mini_magick-4.3.6/lib" />
@@ -39746,6 +39756,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.1.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.1.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="purchease-notifier-0.2.0.pre.pre17 (v0.2.0.pre.pre17, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.0.pre.pre17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.0.pre.pre17/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.0.pre.pre17/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.0.pre.pre17/lib" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.0.113, RVM: ruby-1.9.3-p551) [gem]">
