@@ -39810,6 +39810,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-notifier-0.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="purchease-notifier-0.2.5 (v0.2.5, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.2.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-notifier-0.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings (v0.0.113, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/purchease-settings-0.0.113/lib" />
@@ -41258,6 +41268,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.17/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.3.17 (v0.3.17, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.17/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.17/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.17/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.3.2 (v0.3.2, RVM: ruby-2.5.1) [gem]">
@@ -56236,6 +56256,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/statistics2-0.54/lib" />
       </SOURCES>
     </library>
+    <library name="strong_parameters-0.2.3 (v0.2.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/strong_parameters-0.2.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/strong_parameters-0.2.3/lib" />
+      </SOURCES>
+    </library>
     <library name="strongbox (v0.7.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/strongbox-0.7.0/lib" />
@@ -60812,6 +60840,20 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/web-console-3.7.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="web-console-rails3-1.0.4 (v1.0.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/app" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/web-console-rails3-1.0.4/vendor" />
       </SOURCES>
     </library>
     <library name="webmock (v3.1.0, RVM: ruby-2.2.5) [gem]">
