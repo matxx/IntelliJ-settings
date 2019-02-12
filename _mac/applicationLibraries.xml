@@ -33314,6 +33314,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.15/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.16, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.16/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.16/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job (v0.3.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.2/bin" />
@@ -39696,6 +39706,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.5/lib" />
       </SOURCES>
     </library>
+    <library name="purchease-notifier (v0.2.9, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.9/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.9/lib" />
+      </SOURCES>
+    </library>
     <library name="purchease-notifier-0.0.12 (v0.0.12, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/purchease-notifier-0.0.12/lib" />
@@ -41312,6 +41332,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.19/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.19/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.3.19 (v0.3.19, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.19/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.19/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.19/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.3.2 (v0.3.2, RVM: ruby-2.5.1) [gem]">
