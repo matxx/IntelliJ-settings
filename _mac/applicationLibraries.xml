@@ -60440,6 +60440,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.1/gems/vat-siren-siret-0.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="vat-siren-siret-0.1.1 (v0.1.1, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vat-siren-siret-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vat-siren-siret-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vat-siren-siret-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/vat-siren-siret-0.1.1/lib" />
+      </SOURCES>
+    </library>
     <library name="vegas (v0.1.11, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/vegas-0.1.11/lib" />
