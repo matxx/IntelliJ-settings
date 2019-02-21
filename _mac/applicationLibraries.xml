@@ -17318,6 +17318,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.1.6/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi-1.1.7 (v1.1.7, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.1.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.1.7/lib" />
+      </SOURCES>
+    </library>
     <library name="et-orbi-1.1.7 (v1.1.7, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/et-orbi-1.1.7/lib" />
@@ -20168,6 +20176,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/fugit-1.1.6/lib" />
+      </SOURCES>
+    </library>
+    <library name="fugit-1.1.8 (v1.1.8, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/fugit-1.1.8/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/fugit-1.1.8/lib" />
       </SOURCES>
     </library>
     <library name="fugit-1.1.8 (v1.1.8, RVM: ruby-2.4.3) [gem]">
