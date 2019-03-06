@@ -40116,6 +40116,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.10/lib" />
       </SOURCES>
     </library>
+    <library name="purchease-notifier (v0.2.10, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.10/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-notifier-0.2.10/lib" />
+      </SOURCES>
+    </library>
     <library name="purchease-notifier (v0.2.5, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-notifier-0.2.5/bin" />
@@ -41112,6 +41122,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.17/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.17/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.3.20, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.20/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.20/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.20/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.20/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.3.8, RVM: ruby-2.2.9) [gem]">
