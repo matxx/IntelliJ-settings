@@ -76,10 +76,16 @@
             <id>Code quality toolsJavaScript</id>
           </State>
           <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
             <id>CoffeeScript</id>
           </State>
           <State>
             <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Cucumber</id>
           </State>
           <State>
             <id>DOM issuesJavaScript</id>
@@ -91,6 +97,9 @@
             <id>General</id>
           </State>
           <State>
+            <id>GeneralCoffeeScript</id>
+          </State>
+          <State>
             <id>GeneralJavaScript</id>
           </State>
           <State>
@@ -100,7 +109,22 @@
             <id>Ignore</id>
           </State>
           <State>
+            <id>Internationalization issues</id>
+          </State>
+          <State>
+            <id>Invalid elementsCSS</id>
+          </State>
+          <State>
+            <id>JSON</id>
+          </State>
+          <State>
             <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
           </State>
           <State>
             <id>Naming ConventionsRuby</id>
@@ -127,17 +151,24 @@
             <id>RELAX NG</id>
           </State>
           <State>
+            <id>Rails</id>
+          </State>
+          <State>
             <id>Ruby</id>
           </State>
           <State>
             <id>SQL</id>
           </State>
-        </expanded-state>
-        <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>Sass/SCSS</id>
           </State>
-        </selected-state>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XML</id>
+          </State>
+        </expanded-state>
       </profile-state>
     </entry>
   </component>
