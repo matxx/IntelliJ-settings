@@ -18,6 +18,7 @@
       <mask>*.coffee</mask>
       <mask>*.rabl</mask>
       <mask>*.rb</mask>
+      <mask>*.haml</mask>
     </recentFileMasks>
   </component>
 </application>
