@@ -18338,6 +18338,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.62.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.64.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/benchmarks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/data" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/tests" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.64.0/benchmarks" />
+      </SOURCES>
+    </library>
     <library name="excon-0.25.3 (v0.25.3, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/excon-0.25.3/lib" />
@@ -42416,6 +42432,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.3.25, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.25/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.25/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.25/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.0.128 (v0.0.128, RVM: ruby-2.1.8) [gem]">
