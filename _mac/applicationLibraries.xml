@@ -43286,6 +43286,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.25/config" />
       </SOURCES>
     </library>
+    <library name="purchease-settings-0.3.26 (v0.3.26, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.26/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.26/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.26/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.26/config" />
+      </SOURCES>
+    </library>
     <library name="purchease-settings-0.3.3 (v0.3.3, RVM: ruby-2.5.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/purchease-settings-0.3.3/lib" />
