@@ -58056,6 +58056,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/simple_token_authentication-1.15.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="simple_token_authentication-1.15.1 (v1.15.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/simple_token_authentication-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/simple_token_authentication-1.15.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/simple_token_authentication-1.15.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/simple_token_authentication-1.15.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="simple_token_authentication-1.15.1 (v1.15.1, RVM: ruby-2.3.1) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.1/gems/simple_token_authentication-1.15.1/lib" />
