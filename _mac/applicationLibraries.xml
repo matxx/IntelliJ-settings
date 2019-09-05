@@ -6610,6 +6610,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow (v0.5.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.3/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow-0.1.25 (v0.1.25, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/async_workflow-0.1.25/bin" />
@@ -40264,6 +40274,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.70/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.70/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.70/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract (v0.3.74, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.74/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract-0.1.26 (v0.1.26, RVM: ruby-2.2.9) [gem]">
