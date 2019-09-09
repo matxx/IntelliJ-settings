@@ -19252,6 +19252,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/et-orbi-1.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi-1.2.2 (v1.2.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.2.2/lib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/eventmachine/1.0.7" />
@@ -22468,6 +22476,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/fugit-1.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="fugit-1.3.3 (v1.3.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/fugit-1.3.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/fugit-1.3.3/lib" />
       </SOURCES>
     </library>
     <library name="fuubar (v1.1.1, RVM: ruby-1.9.3-p551) [gem]">
