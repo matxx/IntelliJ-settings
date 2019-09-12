@@ -12376,6 +12376,24 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-5.0.0/features" />
       </SOURCES>
     </library>
+    <library name="bourbon-6.0.0 (v6.0.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/core" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/features" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bourbon-6.0.0/.circleci" />
+      </SOURCES>
+    </library>
     <library name="bson (v4.2.2, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/bson-4.2.2/ext" />
@@ -13444,6 +13462,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/byebug-9.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/byebug-9.1.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/byebug-9.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="cancan-1.6.10 (v1.6.10, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/cancan-1.6.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/cancan-1.6.10/lib" />
       </SOURCES>
     </library>
     <library name="capistrano-3.4.0 (v3.4.0, RVM: ruby-2.3.3) [gem]">
@@ -41334,6 +41360,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.75/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.75/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.75/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.3.76 (v0.3.76, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.76/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract-0.3.8 (v0.3.8, RVM: ruby-2.2.9) [gem]">
