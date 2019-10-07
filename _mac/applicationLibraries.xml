@@ -1700,6 +1700,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/active_model_serializers-0.10.9/.github" />
       </SOURCES>
     </library>
+    <library name="active_record_query_trace-1.6.1 (v1.6.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/active_record_query_trace-1.6.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/active_record_query_trace-1.6.1/lib" />
+      </SOURCES>
+    </library>
     <library name="activeadmin (v0.6.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/activeadmin-0.6.0/app" />
