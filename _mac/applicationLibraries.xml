@@ -6618,6 +6618,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow (v0.5.2, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/async_workflow-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/async_workflow-0.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/async_workflow-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/async_workflow-0.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow (v0.5.3, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.5.3/bin" />
@@ -19662,6 +19672,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.62.0/data" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.62.0/tests" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.62.0/benchmarks" />
+      </SOURCES>
+    </library>
+    <library name="excon (v0.66.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.66.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.66.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.66.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.66.0/data" />
       </SOURCES>
     </library>
     <library name="excon-0.25.3 (v0.25.3, RVM: ruby-2.1.8) [gem]">
@@ -37118,6 +37138,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.3.23/lib" />
       </SOURCES>
     </library>
+    <library name="next_job (v0.3.23, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/next_job-0.3.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/next_job-0.3.23/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/next_job-0.3.23/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/next_job-0.3.23/lib" />
+      </SOURCES>
+    </library>
     <library name="next_job (v0.3.3, RVM: ruby-2.2.5) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/next_job-0.3.3/bin" />
@@ -40348,6 +40378,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.81/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.81/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.81/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract (v0.3.82, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.82/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract-0.1.26 (v0.1.26, RVM: ruby-2.2.9) [gem]">
@@ -54696,6 +54738,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/exe" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/resque-scheduler-4.3.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="resque-scheduler (v4.4.0, RVM: ruby-2.4.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/resque-scheduler-4.4.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/resque-scheduler-4.4.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/resque-scheduler-4.4.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/resque-scheduler-4.4.0/lib" />
       </SOURCES>
     </library>
     <library name="resque-scheduler-4.2.0 (v4.2.0, RVM: ruby-2.1.8) [gem]">
