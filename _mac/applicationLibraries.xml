@@ -19918,6 +19918,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.62.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.66.0, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.66.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.66.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.66.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/excon-0.66.0/data" />
+      </SOURCES>
+    </library>
     <library name="excon (v0.66.0, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.66.0/lib" />
@@ -40110,6 +40120,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.4/gems/parser-2.5.1.2/lib" />
       </SOURCES>
     </library>
+    <library name="parser (v2.6.3.0, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parser-2.6.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parser-2.3.1.0 (v2.3.1.0, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/parser-2.3.1.0/bin" />
@@ -41090,6 +41112,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.95/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.95/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.95/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract (v0.3.96, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.96/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract (v0.3.97, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.3.97/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract-0.1.26 (v0.1.26, RVM: ruby-2.2.9) [gem]">
@@ -46780,6 +46826,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.14/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.3.32, RVM: ruby-2.3.3) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.32/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.32/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.32/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/purchease-settings-0.3.32/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings (v0.3.36, RVM: ruby-2.2.9) [gem]">
@@ -57816,6 +57872,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rspec-rails-3.8.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rspec-request_snapshot (v0.6.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rspec-request_snapshot-0.6.1/.circleci" />
       </SOURCES>
     </library>
     <library name="rspec-request_snapshot-0.5.0 (v0.5.0, RVM: ruby-2.2.9) [gem]">
@@ -69182,6 +69250,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/vat-siren-siret-0.1.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/vat-siren-siret-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="vat-siren-siret (v0.1.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/vat-siren-siret-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/vat-siren-siret-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/vat-siren-siret-0.1.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/vat-siren-siret-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="vat-siren-siret-0.1.1 (v0.1.1, RVM: ruby-2.3.4) [gem]">
