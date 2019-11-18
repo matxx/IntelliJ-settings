@@ -29028,6 +29028,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
     </library>
+    <library name="jaro_winkler-1.5.2 (v1.5.2, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/jaro_winkler-1.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="jaro_winkler-1.5.3 (v1.5.3, RVM: ruby-2.3.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.8/gems/jaro_winkler-1.5.3/ext" />
@@ -40022,6 +40032,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/parallel-1.17.0/lib" />
       </SOURCES>
     </library>
+    <library name="parallel-1.17.0 (v1.17.0, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parallel-1.17.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/parallel-1.17.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel-1.9.0 (v1.9.0, RVM: ruby-2.3.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.3.3/gems/parallel-1.9.0/lib" />
@@ -42514,6 +42532,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/pdf-reader-2.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/pdf-reader-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-reader-2.2.1 (v2.2.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-reader-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-reader-2.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-reader-2.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/pdf-reader-2.2.1/lib" />
       </SOURCES>
     </library>
     <library name="pdf-reader-2.3.0 (v2.3.0, RVM: ruby-2.2.9) [gem]">
@@ -59080,6 +59108,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/rubocop-0.60.0/config" />
       </SOURCES>
     </library>
+    <library name="rubocop-0.60.0 (v0.60.0, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/rubocop-0.60.0/config" />
+      </SOURCES>
+    </library>
     <library name="ruby-graphviz-1.2.4 (v1.2.4, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-graphviz-1.2.4/bin" />
@@ -59486,6 +59530,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/ruby-progressbar-1.10.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar-1.10.1 (v1.10.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/ruby-progressbar-1.10.1/lib" />
       </SOURCES>
     </library>
     <library name="ruby-progressbar-1.8.0 (v1.8.0, RVM: ruby-2.1.8) [gem]">
@@ -68806,6 +68858,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/unicode-display_width-1.4.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/unicode-display_width-1.4.1/data" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width-1.4.1 (v1.4.1, RVM: ruby-2.5.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.1/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/unicode-display_width-1.4.1/data" />
       </SOURCES>
     </library>
     <library name="unicode-display_width-1.5.0 (v1.5.0, RVM: ruby-2.2.9) [gem]">
