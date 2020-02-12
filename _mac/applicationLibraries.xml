@@ -8894,14 +8894,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/orm_adapter-0.5.0/gemfiles" />
       </SOURCES>
     </library>
-    <library name="parallel-1.12.1 (v1.12.1, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parallel-1.12.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parallel-1.12.1/lib" />
-      </SOURCES>
-    </library>
     <library name="parallel-1.17.0 (v1.17.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parallel-1.17.0/lib" />
@@ -8928,16 +8920,6 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/parser-2.3.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/parser-2.3.1.0/lib" />
-      </SOURCES>
-    </library>
-    <library name="parser-2.5.1.0 (v2.5.1.0, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.5.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.5.1.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.5.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/parser-2.5.1.0/lib" />
       </SOURCES>
     </library>
     <library name="parser-2.6.3.0 (v2.6.3.0, RVM: ruby-2.2.9) [gem]">
@@ -9298,14 +9280,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/powerpack-0.1.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="powerpack-0.1.1 (v0.1.1, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/powerpack-0.1.1/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="powerpack-0.1.2 (v0.1.2, RVM: ruby-2.2.9) [gem]">
@@ -12906,14 +12880,6 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-progressbar-1.10.1/lib" />
-      </SOURCES>
-    </library>
-    <library name="ruby-progressbar-1.9.0 (v1.9.0, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-progressbar-1.9.0/lib" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby-rc4 (v0.1.5, RVM: ruby-1.9.3-p551) [gem]">
