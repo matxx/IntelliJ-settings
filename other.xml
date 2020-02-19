@@ -61,9 +61,6 @@
             <id />
           </State>
           <State>
-            <id>RubocopRuby</id>
-          </State>
-          <State>
             <id>Ruby</id>
           </State>
         </expanded-state>
