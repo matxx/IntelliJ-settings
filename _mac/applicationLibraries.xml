@@ -21046,6 +21046,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rollout-2.4.5/.circleci" />
       </SOURCES>
     </library>
+    <library name="roo-2.7.1 (v2.7.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/roo-2.7.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/roo-2.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/roo-2.7.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rspec (v2.13.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/rspec-2.13.0/lib" />
