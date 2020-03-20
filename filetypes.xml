@@ -20,6 +20,7 @@
       <mapping ext="arb" type="Ruby" />
       <mapping ext="rabl" type="Ruby" />
       <mapping ext="axlsx" type="Ruby" />
+      <removed_mapping ext="vue" type="Vue.js file" />
     </extensionMap>
   </component>
 </application>
