@@ -1812,6 +1812,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/airbrake-ruby-4.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="airbrake-ruby-4.13.3 (v4.13.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/airbrake-ruby-4.13.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/airbrake-ruby-4.13.3/lib" />
+      </SOURCES>
+    </library>
     <library name="airbrake-ruby-4.5.0 (v4.5.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/airbrake-ruby-4.5.0/lib" />
@@ -2962,6 +2970,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-2.11.438/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-2.11.475 (v2.11.475, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-2.11.475/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-2.11.475/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-2.11.55 (v2.11.55, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-2.11.55/lib" />
@@ -3076,6 +3092,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.438/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.438/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.438/apis" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-core-2.11.475 (v2.11.475, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/apis" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-core-2.11.475/apis" />
       </SOURCES>
     </library>
     <library name="aws-sdk-core-2.11.55 (v2.11.55, RVM: ruby-2.2.9) [gem]">
@@ -3362,6 +3390,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-resources-2.11.438/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-resources-2.11.475 (v2.11.475, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-resources-2.11.475/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-resources-2.11.475/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-resources-2.11.55 (v2.11.55, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-resources-2.11.55/lib" />
@@ -3528,6 +3564,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/aws-sigv4-1.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sigv4-1.1.1 (v1.1.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sigv4-1.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sigv4-1.1.1/lib" />
       </SOURCES>
     </library>
     <library name="axiom-types-0.1.1 (v0.1.1, RVM: ruby-2.2.9) [gem]">
@@ -7168,6 +7212,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/et-orbi-1.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="et-orbi-1.2.4 (v1.2.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.2.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/et-orbi-1.2.4/lib" />
+      </SOURCES>
+    </library>
     <library name="eventmachine (v1.0.7, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/eventmachine/1.0.7" />
@@ -10754,6 +10806,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/io-like-0.3.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="io-like-0.3.1 (v0.3.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/io-like-0.3.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/io-like-0.3.1/lib" />
       </SOURCES>
     </library>
     <library name="jaro_winkler-1.5.1 (v1.5.1, RVM: ruby-2.5.3) [gem]">
@@ -15496,6 +15556,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/passbook-0.2.1/lib" />
       </SOURCES>
     </library>
+    <library name="paypal-sdk-rest-1.7.4 (v1.7.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/paypal-sdk-rest-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/paypal-sdk-rest-1.7.4/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/paypal-sdk-rest-1.7.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/paypal-sdk-rest-1.7.4/data" />
+      </SOURCES>
+    </library>
     <library name="pdf-extract (v0.6.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.6.0/bin" />
@@ -15734,6 +15804,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.6.6/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.6.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.6.6/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.7.0 (v0.7.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.7.1 (v0.7.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.7.1/samples" />
       </SOURCES>
     </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
@@ -25894,6 +25988,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/unicode-display_width-1.6.1/data" />
       </SOURCES>
     </library>
+    <library name="unicode-display_width-1.7.0 (v1.7.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/unicode-display_width-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/unicode-display_width-1.7.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/unicode-display_width-1.7.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/unicode-display_width-1.7.0/data" />
+      </SOURCES>
+    </library>
     <library name="unicode_utils (v1.0.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/unicode_utils-1.0.0/lib" />
@@ -26534,6 +26638,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/xml-simple-1.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="xml-simple-1.1.5 (v1.1.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/xml-simple-1.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/xml-simple-1.1.5/lib" />
       </SOURCES>
     </library>
     <library name="xmlrpc-0.2.1 (v0.2.1, RVM: ruby-2.4.3) [gem]">
