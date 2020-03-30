@@ -5306,18 +5306,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chosen-rails-1.8.3/vendor" />
       </SOURCES>
     </library>
-    <library name="chromedriver-helper-1.1.0 (v1.1.0, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-1.1.0/concourse" />
-      </SOURCES>
-    </library>
     <library name="chromedriver-helper-1.2.0 (v1.2.0, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/chromedriver-helper-1.2.0/bin" />
@@ -5352,18 +5340,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/chromedriver-helper-2.1.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/chromedriver-helper-2.1.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/chromedriver-helper-2.1.0/concourse" />
-      </SOURCES>
-    </library>
-    <library name="chromedriver-helper-2.1.1 (v2.1.1, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/concourse" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/chromedriver-helper-2.1.1/concourse" />
       </SOURCES>
     </library>
     <library name="chronic (v0.10.2, RVM: ruby-2.1.8) [gem]">
