@@ -61,12 +61,18 @@
             <id />
           </State>
           <State>
-            <id>Ruby</id>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>SQL</id>
           </State>
         </expanded-state>
         <selected-state>
           <State>
-            <id>BashSupport</id>
+            <id>JSPotentiallyInvalidTargetOfIndexedPropertyAccess</id>
           </State>
         </selected-state>
       </profile-state>
