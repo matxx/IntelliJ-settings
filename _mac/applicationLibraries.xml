@@ -5486,6 +5486,16 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.9/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="bindex (v0.8.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bindex-0.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bindex-0.8.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bindex-0.8.1/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bindex-0.8.1/lib" />
+      </SOURCES>
+    </library>
     <library name="bindex-0.5.0 (v0.5.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bindex-0.5.0/ext" />
@@ -7414,6 +7424,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/coffee-rails-3.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="coffee-rails (v4.0.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/coffee-rails-4.0.1/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/coffee-rails-4.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/coffee-rails-4.0.1/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="coffee-rails-3.2.2 (v3.2.2, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/coffee-rails-3.2.2/lib" />
@@ -8114,6 +8134,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/counter_culture-0.1.33/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.6, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/crass-1.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/crass-1.0.6/lib" />
       </SOURCES>
     </library>
     <library name="crass-1.0.3 (v1.0.3, RVM: ruby-2.4.3) [gem]">
@@ -14698,6 +14726,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/jaro_winkler-1.5.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/jaro_winkler-1.5.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="jbuilder (v1.5.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jbuilder-1.5.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/jbuilder-1.5.3/lib" />
       </SOURCES>
     </library>
     <library name="jbuilder-2.4.1 (v2.4.1, RVM: ruby-2.6.6) [gem]">
@@ -26882,6 +26918,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rake-11.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v13.0.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rake-13.0.1/.github" />
+      </SOURCES>
+    </library>
     <library name="rake-10.4.2 (v10.4.2, ruby-2.0.0-p481) [gem]">
       <CLASSES>
         <root url="file:///Library/Ruby/Gems/2.3.0/gems/rake-10.4.2/bin" />
@@ -27970,6 +28020,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rdoc-4.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rdoc-4.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v6.2.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rdoc-6.2.0/lib" />
       </SOURCES>
     </library>
     <library name="rdoc-3.12.2 (v3.12.2, RVM: ruby-2.2.9) [gem]">
@@ -31764,6 +31826,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/scrub_rb-1.0.1/benchmark" />
       </SOURCES>
     </library>
+    <library name="sdoc (v1.1.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sdoc-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sdoc-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sdoc-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/sdoc-1.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="sdoc-0.4.1 (v0.4.1, RVM: ruby-2.6.6) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/sdoc-0.4.1/bin" />
@@ -34858,6 +34930,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.7, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/tzinfo-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/tzinfo-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo-0.3.55 (v0.3.55, RVM: ruby-2.2.9) [gem]">
