@@ -9942,6 +9942,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/excon-0.49.0/benchmarks" />
       </SOURCES>
     </library>
+    <library name="excon (v0.75.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.75.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.75.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.75.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/excon-0.75.0/data" />
+      </SOURCES>
+    </library>
     <library name="excon-0.60.0 (v0.60.0, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/excon-0.60.0/lib" />
@@ -24172,6 +24182,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.55/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.55/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings (v0.3.57, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.57/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.57/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.57/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.57/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.2.20 (v0.2.20, RVM: ruby-2.4.3) [gem]">
