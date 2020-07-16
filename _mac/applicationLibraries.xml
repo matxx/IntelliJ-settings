@@ -19156,6 +19156,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/multi_json-1.14.1/lib" />
       </SOURCES>
     </library>
+    <library name="multi_json-1.15.0 (v1.15.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/multi_json-1.15.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/multi_json-1.15.0/lib" />
+      </SOURCES>
+    </library>
     <library name="multi_xml (v0.5.5, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/multi_xml-0.5.5/lib" />
@@ -24570,6 +24578,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/purchease-settings-0.3.6/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/purchease-settings-0.3.6/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.3.60 (v0.3.60, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.60/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.60/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.60/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.60/config" />
       </SOURCES>
     </library>
     <library name="purchease_toolbelt (v0.4.15, RVM: ruby-1.9.3-p551) [gem]">
