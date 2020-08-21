@@ -7,5 +7,4 @@
     <option name="REFORMAT_BLOCK_ON_RBRACE" value="false" />
     <option name="REFORMAT_ON_PASTE" value="2" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="only rubocop" />
 </application>
