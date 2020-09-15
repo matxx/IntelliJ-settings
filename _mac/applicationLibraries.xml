@@ -8990,6 +8990,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/deep_merge-1.1.1/lib" />
       </SOURCES>
     </library>
+    <library name="derailed_benchmarks (v1.6.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="descendants_tracker-0.0.4 (v0.0.4, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/descendants_tracker-0.0.4/lib" />
@@ -12400,6 +12414,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/geokit-rails-2.3.1/gemfiles" />
       </SOURCES>
     </library>
+    <library name="get_process_mem (v0.2.7, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/.github" />
+      </SOURCES>
+    </library>
     <library name="gherkin (v2.12.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby19/gherkin/2.12.0" />
@@ -13650,6 +13674,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/hashie-3.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="heapy (v0.2.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/.github" />
       </SOURCES>
     </library>
     <library name="heroics-0.0.24 (v0.0.24, RVM: ruby-2.2.9) [gem]">
@@ -33208,6 +33244,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-rc4-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-statistics (v2.1.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/.github" />
       </SOURCES>
     </library>
     <library name="ruby-version (v0.4.3, RVM: ruby-1.9.3-p551) [gem]">
