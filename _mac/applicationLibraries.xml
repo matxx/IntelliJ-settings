@@ -9004,6 +9004,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
       </SOURCES>
     </library>
+    <library name="derailed_benchmarks (v1.6.0@bcbca3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="derailed_benchmarks (v1.7.0@389d5c, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-389d5c1d352e/bin" />
