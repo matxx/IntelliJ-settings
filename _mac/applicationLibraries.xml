@@ -9166,20 +9166,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.5/gems/deep_merge-1.1.1/lib" />
       </SOURCES>
     </library>
-    <library name="derailed_benchmarks (v1.6.0, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
-      </SOURCES>
-    </library>
     <library name="derailed_benchmarks (v1.6.0@bcbca3, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-bcbca34b4f3b/bin" />
@@ -9206,6 +9192,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-389d5c1d352e/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-389d5c1d352e/.github" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/derailed_benchmarks-389d5c1d352e/gemfiles" />
+      </SOURCES>
+    </library>
+    <library name="derailed_benchmarks-1.6.0 (v1.6.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/.github" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/derailed_benchmarks-1.6.0/gemfiles" />
       </SOURCES>
     </library>
     <library name="descendants_tracker-0.0.4 (v0.0.4, RVM: ruby-2.2.9) [gem]">
@@ -12654,7 +12654,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/geokit-rails-2.3.1/gemfiles" />
       </SOURCES>
     </library>
-    <library name="get_process_mem (v0.2.7, RVM: ruby-2.2.9) [gem]">
+    <library name="get_process_mem-0.2.7 (v0.2.7, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/get_process_mem-0.2.7/.github" />
@@ -13924,7 +13924,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/hashie-3.6.0/lib" />
       </SOURCES>
     </library>
-    <library name="heapy (v0.2.0, RVM: ruby-2.2.9) [gem]">
+    <library name="heapy-0.2.0 (v0.2.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/heapy-0.2.0/lib" />
@@ -23206,18 +23206,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.14.8/samples" />
       </SOURCES>
     </library>
-    <library name="pdf-extract (v0.16.0, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/samples" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/bin" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/samples" />
-      </SOURCES>
-    </library>
     <library name="pdf-extract (v0.16.1, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.1/bin" />
@@ -23612,6 +23600,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.15.9/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.15.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.15.9/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.16.0 (v0.16.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.16.0/samples" />
       </SOURCES>
     </library>
     <library name="pdf-extract-0.16.1 (v0.16.1, RVM: ruby-2.2.9) [gem]">
@@ -26416,16 +26416,6 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.3.57/config" />
       </SOURCES>
     </library>
-    <library name="purchease-settings (v0.4.2, RVM: ruby-2.2.9) [gem]">
-      <CLASSES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/config" />
-      </CLASSES>
-      <SOURCES>
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/lib" />
-        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/config" />
-      </SOURCES>
-    </library>
     <library name="purchease-settings-0.0.130 (v0.0.130, RVM: ruby-2.4.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.3/gems/purchease-settings-0.0.130/lib" />
@@ -26884,6 +26874,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/purchease-settings-0.4.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/purchease-settings-0.4.0/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.4.2 (v0.4.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.4.2/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.4.3 (v0.4.3, RVM: ruby-2.2.9) [gem]">
@@ -33896,7 +33896,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/ruby-rc4-0.1.5/lib" />
       </SOURCES>
     </library>
-    <library name="ruby-statistics (v2.1.2, RVM: ruby-2.2.9) [gem]">
+    <library name="ruby-statistics-2.1.2 (v2.1.2, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/ruby-statistics-2.1.2/lib" />
