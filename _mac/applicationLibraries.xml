@@ -29526,6 +29526,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@global/gems/rubygems-bundler-1.4.5/lib" />
       </SOURCES>
     </library>
+    <library name="rubygems-update-2.0.3 (v2.0.3, ruby-2.0.0-p481) [gem]">
+      <CLASSES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/util" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/hide_lib_for_update" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/bin" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/lib" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/util" />
+        <root url="file:///Library/Ruby/Gems/2.6.0/gems/rubygems-update-2.0.3/hide_lib_for_update" />
+      </SOURCES>
+    </library>
     <library name="rubyXL-3.3.30 (v3.3.30, RVM: ruby-2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/rubyXL-3.3.30/lib" />
