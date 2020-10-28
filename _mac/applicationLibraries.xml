@@ -3458,6 +3458,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/bcrypt-3.1.11/lib" />
       </SOURCES>
     </library>
+    <library name="bcrypt (v3.1.16, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bcrypt-3.1.16/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/bcrypt/3.1.16" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bcrypt-3.1.16/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bcrypt-3.1.16/lib" />
+      </SOURCES>
+    </library>
     <library name="bcrypt-3.1.12 (v3.1.12, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bcrypt-3.1.12/ext" />
@@ -5304,6 +5316,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/clockwork-0.5.5/gemfiles" />
       </SOURCES>
     </library>
+    <library name="clockwork (v0.7.7, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.7.7/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="clockwork-0.5.5 (v0.5.5, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/clockwork-0.5.5/bin" />
@@ -6018,6 +6042,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/counter_culture-0.1.33/lib" />
+      </SOURCES>
+    </library>
+    <library name="crass (v1.0.6, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/crass-1.0.6/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/crass-1.0.6/lib" />
       </SOURCES>
     </library>
     <library name="crass-1.0.4 (v1.0.4, RVM: ruby-2.5.3) [gem]">
@@ -13928,6 +13960,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/mini_magick-4.5.1/lib" />
       </SOURCES>
     </library>
+    <library name="mini_mime (v1.0.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/bench" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.2/bench" />
+      </SOURCES>
+    </library>
     <library name="mini_mime-1.0.0 (v1.0.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/mini_mime-1.0.0/bin" />
@@ -18940,6 +18984,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rack-1.4.7/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rack-1.4.7/contrib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/rack-1.4.7/example" />
+      </SOURCES>
+    </library>
+    <library name="rack (v1.6.13, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/example" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/contrib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rack-1.6.13/example" />
       </SOURCES>
     </library>
     <library name="rack (v1.6.4, RVM: ruby-2.1.8) [gem]">
@@ -27134,6 +27192,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/tzinfo-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="tzinfo (v1.2.7, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/tzinfo-1.2.7/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/tzinfo-1.2.7/lib" />
       </SOURCES>
     </library>
     <library name="tzinfo-0.3.55 (v0.3.55, RVM: ruby-2.4.10) [gem]">
