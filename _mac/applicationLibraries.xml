@@ -2706,6 +2706,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-partitions-1.381.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions-1.388.0 (v1.388.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-partitions-1.388.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-partitions-1.388.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-partitions-1.94.0 (v1.94.0, RVM: ruby-2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/aws-partitions-1.94.0/lib" />
@@ -3284,6 +3292,22 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-s3-1.83.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-s3-1.83.1 (v1.83.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-s3-1.83.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-s3-1.83.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="aws-sdk-sns-1.35.0 (v1.35.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-sns-1.35.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/aws-sdk-sns-1.35.0/lib" />
       </SOURCES>
     </library>
     <library name="aws-sigv4-1.0.2 (v1.0.2, RVM: ruby-2.2.9) [gem]">
