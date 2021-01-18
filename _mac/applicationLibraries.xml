@@ -5754,6 +5754,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/bullet-4.6.0/tasks" />
       </SOURCES>
     </library>
+    <library name="bumbler (v0.1.4@a4fb3b, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/Bumbler-a4fb3b61619c/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/Bumbler-a4fb3b61619c/lib" />
+      </SOURCES>
+    </library>
     <library name="bumbler-0.5.0 (v0.5.0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bumbler-0.5.0/bin" />
@@ -10448,6 +10456,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@global/gems/gem-wrappers-1.4.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6@global/gems/gem-wrappers-1.4.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="gem_bench-1.0.5 (v1.0.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gem_bench-1.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gem_bench-1.0.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gem_bench-1.0.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/gem_bench-1.0.5/lib" />
       </SOURCES>
     </library>
     <library name="gemfury-0.11.0 (v0.11.0, RVM: ruby-2.2.9) [gem]">
@@ -19790,6 +19808,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.3/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.19.5 (v0.19.5, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.5/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.19.6 (v0.19.6, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.19.6/samples" />
       </SOURCES>
     </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
