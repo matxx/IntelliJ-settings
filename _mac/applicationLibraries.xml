@@ -3488,6 +3488,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow-0.12.2 (v0.12.2, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/async_workflow-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/async_workflow-0.12.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/async_workflow-0.12.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/async_workflow-0.12.2/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow-0.4.30 (v0.4.30, RVM: ruby-2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/async_workflow-0.4.30/bin" />
@@ -11818,6 +11828,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/fssm-0.2.10/profile" />
       </SOURCES>
     </library>
+    <library name="ftpfxp (v0.0.5@324127, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-324127b57132/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-324127b57132/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-324127b57132/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-324127b57132/samples" />
+      </SOURCES>
+    </library>
     <library name="ftpfxp (v0.0.5@671a40, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/ftpfxp-671a40cace3f/lib" />
@@ -11826,6 +11846,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/ftpfxp-671a40cace3f/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/ftpfxp-671a40cace3f/samples" />
+      </SOURCES>
+    </library>
+    <library name="ftpfxp (v0.0.5@ce6321, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-ce6321125581/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-ce6321125581/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-ce6321125581/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/ftpfxp-ce6321125581/samples" />
       </SOURCES>
     </library>
     <library name="fugit-1.1.1 (v1.1.1, RVM: ruby-2.4.10) [gem]">
@@ -20536,6 +20566,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="next_job-0.5.0 (v0.5.0, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/next_job-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/next_job-0.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/next_job-0.5.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/next_job-0.5.0/lib" />
+      </SOURCES>
+    </library>
     <library name="nilsimsa (v1.1.1, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/nilsimsa-1.1.1/bin" />
@@ -21320,6 +21360,18 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/oj-2.18.5/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/oj-2.18.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="oj-3.11.2 (v3.11.2, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/pages" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/oj-3.11.2/pages" />
       </SOURCES>
     </library>
     <library name="omniauth (v1.1.4, RVM: ruby-1.9.3-p551) [gem]">
@@ -27236,6 +27288,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/rails-observers-0.1.5/lib" />
+      </SOURCES>
+    </library>
+    <library name="rails-observers-0.1.5 (v0.1.5, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/rails-observers-0.1.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/rails-observers-0.1.5/lib" />
       </SOURCES>
     </library>
     <library name="rails4_upgrade (v0.5.0@2e39e8, RVM: ruby-2.2.9) [gem]">
