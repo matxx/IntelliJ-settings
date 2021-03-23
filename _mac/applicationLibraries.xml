@@ -3496,6 +3496,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/async_workflow-0.12.2/lib" />
       </SOURCES>
     </library>
+    <library name="async_workflow-0.12.3 (v0.12.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.12.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.12.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.12.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/async_workflow-0.12.3/lib" />
+      </SOURCES>
+    </library>
     <library name="async_workflow-0.4.30 (v0.4.30, RVM: ruby-2.5.3) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.3/gems/async_workflow-0.4.30/bin" />
@@ -6050,6 +6060,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/bitfields-0.4.3/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/bitfields-0.4.3/gemfiles" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/bitfields-0.4.3/benchmark" />
+      </SOURCES>
+    </library>
+    <library name="bitfields-0.9.0 (v0.9.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bitfields-0.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/bitfields-0.9.0/lib" />
       </SOURCES>
     </library>
     <library name="bitfields-0.9.0 (v0.9.0, RVM: ruby-2.4.10) [gem]">
@@ -20574,6 +20592,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/next_job-0.5.0/lib" />
       </SOURCES>
     </library>
+    <library name="next_job-0.5.2 (v0.5.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.5.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.5.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/next_job-0.5.2/lib" />
+      </SOURCES>
+    </library>
     <library name="nilsimsa (v1.1.1, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/nilsimsa-1.1.1/bin" />
@@ -22540,6 +22568,30 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/pdf-extract-0.21.0/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/pdf-extract-0.21.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/pdf-extract-0.21.0/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.21.1 (v0.21.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.1/samples" />
+      </SOURCES>
+    </library>
+    <library name="pdf-extract-0.21.2 (v0.21.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.2/samples" />
       </SOURCES>
     </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
@@ -25370,6 +25422,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.1/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.1/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.5.10 (v0.5.10, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.10/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.10/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.10/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.5.2 (v0.5.2, RVM: ruby-2.2.9) [gem]">
