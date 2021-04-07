@@ -2178,12 +2178,14 @@
     </library>
     <library name="amatch (v0.2.14@f6b5b0, RVM: ruby-2.2.9) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/bundler/gems/amatch-f6b5b03e7048/lib" />
@@ -2594,6 +2596,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/Ascii85-1.0.3/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/Ascii85-1.0.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="Ascii85-1.1.0 (v1.1.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/Ascii85-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/Ascii85-1.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/Ascii85-1.1.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/Ascii85-1.1.0/lib" />
       </SOURCES>
     </library>
     <library name="asset_sync (v0.5.4, RVM: ruby-1.9.3-p551) [gem]">
@@ -5874,6 +5886,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/case_transform-0.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="celluloid-0.16.0 (v0.16.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/celluloid-0.16.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/celluloid-0.16.0/lib" />
       </SOURCES>
     </library>
     <library name="CFPropertyList (v2.2.8, ruby-2.0.0-p648) [gem]">
@@ -10790,6 +10810,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/guard-rspec-3.0.2/lib" />
       </SOURCES>
     </library>
+    <library name="guard-rspec-4.7.3 (v4.7.3, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-rspec-4.7.3/gemfiles" />
+      </SOURCES>
+    </library>
     <library name="guard-rspec-4.7.3 (v4.7.3, RVM: ruby-2.4.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/guard-rspec-4.7.3/lib" />
@@ -10816,6 +10846,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/guard-spork-1.5.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="guard-spork-2.1.0 (v2.1.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-spork-2.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/guard-spork-2.1.0/lib" />
       </SOURCES>
     </library>
     <library name="gyoku (v1.3.1, RVM: ruby-2.1.8) [gem]">
@@ -11622,6 +11660,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/hirb-0.7.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="hitimes-2.0.0 (v2.0.0, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/hitimes-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/hitimes-2.0.0/tasks" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/hitimes-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/hitimes-2.0.0/tasks" />
       </SOURCES>
     </library>
     <library name="holidays (v1.0.6, RVM: ruby-1.9.3-p551) [gem]">
@@ -14772,6 +14820,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/listen-1.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="listen-2.10.1 (v2.10.1, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/listen-2.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/listen-2.10.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/listen-2.10.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/listen-2.10.1/lib" />
       </SOURCES>
     </library>
     <library name="listen-3.0.8 (v3.0.8, RVM: ruby-2.4.10) [gem]">
@@ -19276,6 +19334,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.3/samples" />
       </SOURCES>
     </library>
+    <library name="pdf-extract-0.21.4 (v0.21.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/samples" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-extract-0.21.4/samples" />
+      </SOURCES>
+    </library>
     <library name="pdf-reader (v1.4.0, RVM: ruby-1.9.3-p551) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-1.9.3-p551/gems/pdf-reader-1.4.0/bin" />
@@ -19324,6 +19394,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/pdf-reader-2.2.1/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.6/gems/pdf-reader-2.2.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pdf-reader-2.4.2 (v2.4.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-reader-2.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-reader-2.4.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-reader-2.4.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/pdf-reader-2.4.2/lib" />
       </SOURCES>
     </library>
     <library name="pg (v0.15.1, RVM: ruby-1.9.3-p551) [gem]">
@@ -29412,6 +29492,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spork-1.0.0rc3/features" />
       </SOURCES>
     </library>
+    <library name="spork-0.9.2 (v0.9.2, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-0.9.2/features" />
+      </SOURCES>
+    </library>
+    <library name="spork-1.0.0rc4 (v1.0.0rc4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/features" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/spork-1.0.0rc4/features" />
+      </SOURCES>
+    </library>
     <library name="spork-rails (v3.2.1, RVM: ruby-2.1.8) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.1.8/gems/spork-rails-3.2.1/lib" />
@@ -30860,6 +30968,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/timeliness-0.3.8/lib" />
+      </SOURCES>
+    </library>
+    <library name="timers-4.0.4 (v4.0.4, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/timers-4.0.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/timers-4.0.4/lib" />
       </SOURCES>
     </library>
     <library name="tins (v0.13.2, RVM: ruby-2.1.8) [gem]">
