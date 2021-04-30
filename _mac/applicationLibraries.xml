@@ -2242,12 +2242,14 @@
     </library>
     <library name="amatch (v0.2.14@f6b5b0, RVM: ruby-2.4.10) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/tests" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/ruby18/amatch/0.2.14" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/bundler/gems/amatch-f6b5b03e7048/lib" />
@@ -17890,6 +17892,26 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/newrelic_rpm-3.16.0.318/recipes" />
       </SOURCES>
     </library>
+    <library name="newrelic_rpm-3.18.1.330 (v3.18.1.330, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/ui" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/recipes" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/ui" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/cert" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/vendor" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/newrelic_rpm-3.18.1.330/recipes" />
+      </SOURCES>
+    </library>
     <library name="newrelic_rpm-3.18.1.330 (v3.18.1.330, RVM: ruby-2.4.10) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/newrelic_rpm-3.18.1.330/ui" />
@@ -22270,6 +22292,26 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.13/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.13/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.5.14 (v0.5.14, RVM: ruby-2.2.9) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.9/gems/purchease-settings-0.5.14/config" />
+      </SOURCES>
+    </library>
+    <library name="purchease-settings-0.5.14 (v0.5.14, RVM: ruby-2.4.10) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.14/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.14/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.10/gems/purchease-settings-0.5.14/config" />
       </SOURCES>
     </library>
     <library name="purchease-settings-0.5.2 (v0.5.2, RVM: ruby-2.2.9) [gem]">
